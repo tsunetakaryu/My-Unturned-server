@@ -2,12 +2,13 @@
 <MessageAnnouncerConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Interval>30</Interval>
   <Messages>
-    <Message Text="欢迎来到这个服务器" Color="#FFBBFF" />
-    <Message Text="将服务器添加收藏，方便下次进入" Color="#FFBBFF" />
-    <Message Text="服务器群号：838699506" Color="#FFBBFF" />
-    <Message Text="若发现使用外挂/卡BUG玩家 请联系群管理员" Color="#FFBBFF" />
-    <Message Text="输入/TPA XX 传送 /tpa accept 接受传送" Color="##FFBBFF" />
-    <Message Text="服务器禁止抄家 发现拆别人家的玩家 永久踢出服务器" Color="#00FFFF" />
+    <Message Text="公告：欢迎来到这个服务器" Color="#FFBBFF" />
+    <Message Text="公告：将服务器添加收藏，方便下次进入" Color="#FFBBFF" />
+    <Message Text="公告：服务器群号：838699506" Color="#FFBBFF" />
+    <Message Text="公告：若发现使用外挂/卡 BUG 玩家 请联系管理员" Color="#FFBBFF" />
+    <Message Text="公告：禁止破坏其他玩家的所有物（建筑，车辆，箱子等）" Color="#00FFFF" />
+    <Message Text="公告：玩家建筑最大尺寸 3*3*3，禁止建造浮空建筑" Color="#00FFFF" />
+    <Message Text="公告：玩家的建筑与房屋建议用金属牌标记拥有者" Color="#00FFFF" />
   </Messages>
   <TextCommands>
     <TextCommand>
@@ -17,7 +18,6 @@
         <Line>#1 No offensive content in the chat, respect other players</Line>
         <Line>#2 No bug using, exploiting or abuse of powers</Line>
         <Line>#3 Don't ask admins for items, teleports, loot respawn, ect.</Line>
-        <Line>#4 Please speak english in the public chat</Line>
       </Text>
     </TextCommand>
   </TextCommands>
