@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="buy_command_usage" Value="用法：/buy [物品ID] [数量]." />
+  <Translation Id="cost_command_usage" Value="用法：/cost [物品ID]." />
+  <Translation Id="sell_command_usage" Value="用法：/sell [物品ID] [数量]." />
+  <Translation Id="shop_command_usage" Value="用法: /shop &lt;add/rem/chng/buy&gt; [v.]&lt;itemid&gt; &lt;cost&gt; &lt;cost&gt; is not required for rem, buy is only for items." />
+  <Translation Id="error_giving_item" Value="在给予你 {0} 的时候发生错误. 你没有被扣费." />
+  <Translation Id="error_getting_cost" Value="查询不到 {0} 的报价!" />
+  <Translation Id="item_cost_msg" Value="物品 {0} 出售价为 {1} {2} ，回收价为 {3} {4} ." />
+  <Translation Id="vehicle_cost_msg" Value="车子 {0} 价格为 {1} {2} " />
+  <Translation Id="item_buy_msg" Value="你买了 {5} 个 {0} 花费了 {1} {2}. 你现在还有 {3} {4} ." />
+  <Translation Id="vehicle_buy_msg" Value="你买了一个 {0} 花费了 {1} {2}. 你现在有 {3} {4} ." />
+  <Translation Id="not_enough_currency_msg" Value="你没有足够的 {0} 去买 {1} 个 {2}." />
+  <Translation Id="buy_items_off" Value="很抱歉，你没有购买这个物品的资格 " />
+  <Translation Id="buy_vehicles_off" Value="很抱歉，你没有购买这个载具的资格." />
+  <Translation Id="item_not_available" Value="很抱歉， {0} 不在商店中 酷牛网络-租服联系:2885408109！" />
+  <Translation Id="vehicle_not_available" Value="很抱歉， {0} 不在商店中.酷牛网络-租服联系:2885408109！" />
+  <Translation Id="could_not_find" Value="很抱歉，找不到物品 {0}，请使用物品ID 酷牛网络-租服联系:2885408109" />
+  <Translation Id="sell_items_off" Value="很抱歉，你没有出售这个物品的资格." />
+  <Translation Id="not_have_item_sell" Value="很抱歉，你没有 {0} 来出售." />
+  <Translation Id="not_enough_items_sell" Value="很抱歉，你没有 {0} 个 {1} 来出售." />
+  <Translation Id="not_enough_ammo_sell" Value="很抱歉， {0} 里没有足够的弹药." />
+  <Translation Id="sold_items" Value="你成功出售了 {0} 个 {1} ，得到了 {2} {3} 。你现在有 {4} {5}." />
+  <Translation Id="no_sell_price_set" Value="商店现在不出售 {0} " />
+  <Translation Id="no_itemid_given" Value="物品ID是必须输入的！" />
+  <Translation Id="no_cost_given" Value="钱数是必须输入的！" />
+  <Translation Id="invalid_amt" Value="你输入的金额无效" />
+  <Translation Id="v_not_provided" Value="您必须为车辆指定v或仅指定物品编号.  例如. /shop rem/101" />
+  <Translation Id="invalid_id_given" Value="您需要输入有效的物品或车辆编号。" />
+  <Translation Id="no_permission_shop_chng" Value="你没有权限使用这个指令." />
+  <Translation Id="no_permission_shop_add" Value="你没有权限使用这个指令." />
+  <Translation Id="no_permission_shop_rem" Value="你没有权限使用这个指令." />
+  <Translation Id="no_permission_shop_buy" Value="你没有权限使用这个指令." />
+  <Translation Id="changed" Value="修改" />
+  <Translation Id="added" Value="添加" />
+  <Translation Id="changed_or_added_to_shop" Value="你成功{0}了物品 {1} ，设定价格为 {2} ." />
+  <Translation Id="error_adding_or_changing" Value="在添加/修改 {0} 时发生错误!" />
+  <Translation Id="removed_from_shop" Value="你在商店中移除了 {0} ." />
+  <Translation Id="not_in_shop_to_remove" Value="{0} 未找到，所以不能被移除." />
+  <Translation Id="not_in_shop_to_set_buyback" Value="{0} 不在商店中所以不能设置回收价格，请先使用add." />
+  <Translation Id="set_buyback_price" Value="你成功设置了物品回收价格 {0} 到 {1} ." />
+  <Translation Id="invalid_shop_command" Value="你需要输入一个shop以下的字指令." />
+</Translations>

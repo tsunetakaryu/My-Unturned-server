@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpawnProtectionConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GiveVanishWhileProtected>true</GiveVanishWhileProtected>
+  <CancelProtectionOnEquip>true</CancelProtectionOnEquip>
+  <CancelProtectionIfInVehicleWithOthers>true</CancelProtectionIfInVehicleWithOthers>
+  <GiveProtectionOnJoin>false</GiveProtectionOnJoin>
+  <GiveProtectionOnRespawn>true</GiveProtectionOnRespawn>
+  <AutoRepairProtectedPlayersVehicles>true</AutoRepairProtectedPlayersVehicles>
+  <ProtectionTime>30</ProtectionTime>
+  <MaxProtectionVanishTime>6</MaxProtectionVanishTime>
+  <ProtectionVanishDelayMilliseconds>1000</ProtectionVanishDelayMilliseconds>
+  <ProtectionMessageColor>Yellow</ProtectionMessageColor>
+  <CommandMessageColor>Green</CommandMessageColor>
+</SpawnProtectionConfig>

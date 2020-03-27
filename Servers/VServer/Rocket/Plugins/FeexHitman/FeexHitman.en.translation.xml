@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="hitman_general_chat_created" Value="赏金放在: {0} ({1} $)" />
+  <Translation Id="hitman_general_chat_increased" Value="赏金增加 {1} $: {0} ({2} $)" />
+  <Translation Id="hitman_general_chat_received" Value="{0} 杀了 {1} 并收到了慷慨的 {2} $ ({3} %)." />
+  <Translation Id="hitman_general_not_found" Value="没有找到该玩家." />
+  <Translation Id="hitman_general_invalid_parameter" Value="参数无效." />
+  <Translation Id="hitman_add_self" Value="你不能悬赏自己." />
+  <Translation Id="hitman_add_amount" Value="这不是一个有效的金额." />
+  <Translation Id="hitman_add_balance" Value="你没有足够的钱支付赏金." />
+  <Translation Id="hitman_add_minimum" Value="赏金必须至少 {0} $." />
+  <Translation Id="hitman_payout" Value="的赏金 {0} 已经支付给你. ({1} $)." />
+  <Translation Id="hitman_check_true" Value="{0} 有一个赏金 {1} $." />
+  <Translation Id="hitman_check_false" Value="{0} 没有赏金." />
+  <Translation Id="hitman_list_true" Value="{0} 玩家赏金名单: {1}" />
+  <Translation Id="hitman_list_false" Value="赏金列表为空." />
+</Translations>

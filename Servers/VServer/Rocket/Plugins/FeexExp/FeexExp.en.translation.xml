@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="general_not_found" Value="找不到玩家." />
+  <Translation Id="general_invalid_parameter" Value="无效的参数." />
+  <Translation Id="exp_self" Value="你给了自己{0}经验." />
+  <Translation Id="exp_give_player" Value="{1}给了你{0}的经验." />
+  <Translation Id="exp_give_caller" Value="您获得了{1} {0}经验." />
+  <Translation Id="exp_give_player_console" Value="你有{0}经验." />
+  <Translation Id="exp_transfer_player" Value="{1}给了你{0}的经验." />
+  <Translation Id="exp_transfer_caller" Value="您获得了{1} {0}经验." />
+  <Translation Id="exp_transfer_not_enough" Value="您没有{0}经验." />
+  <Translation Id="exp_onrevive" Value="您获得了{0}经验." />
+  <Translation Id="exp_onkill_true" Value="你消灭了{0}并获得了{1}经验." />
+  <Translation Id="exp_onkill_false" Value="你消灭了{0}但没有获得经验." />
+</Translations>

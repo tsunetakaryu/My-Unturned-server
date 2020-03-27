@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="now_in_fly_mode" Value="进入飞行模式 (速度: {0})" />
+  <Translation Id="no_longer_in_fly_mode" Value="退出飞行模式" />
+</Translations>

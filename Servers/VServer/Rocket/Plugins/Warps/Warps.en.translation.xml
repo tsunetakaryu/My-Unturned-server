@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="warp_help" Value="&lt;&quot;传送点名&quot;&gt; [&quot;玩家名&quot;] - 将玩家传送到传送点." />
+  <Translation Id="setwarp_help" Value="&lt;&quot;传送点名&quot;&gt; - 在玩家当前位置设置服务器传送点." />
+  <Translation Id="delwarp_help" Value="&lt;&quot;传送点名&quot;&gt; - 删除服务器传送点." />
+  <Translation Id="delwarpall_help" Value="&lt;&quot;地图名称&quot;&gt; - 删除指定地图中的所有传送点." />
+  <Translation Id="warps_help" Value="[&quot;传送点名&quot;] - 获取服务器上的传送点列表." />
+  <Translation Id="admin_warp" Value="你正在传送玩家: {0}, 到传送点: {1}." />
+  <Translation Id="admin_warp_log" Value="管理员: {0}({1}), 已传送玩家: {2}, 到传送点: {3}" />
+  <Translation Id="player_warp" Value="你被传送到传送点: {0}." />
+  <Translation Id="warp_wait" Value="你将在 {1} 秒内,传送到传送点 {0}" />
+  <Translation Id="warp_wait_nomovement" Value="你将在 {1} 秒内,传送到传送点 {0},不要随意移动." />
+  <Translation Id="warp_fail_player_moved" Value="传送到 {0} 的过程因为你的移动失败了." />
+  <Translation Id="warp_fail_player_died" Value="传送到 {0} 的过程因为你的死亡失败了." />
+  <Translation Id="warp_cant_find_player" Value="错误:无法传送在车里的玩家." />
+  <Translation Id="warp_cant_find_warp" Value="错误:找不到名称为{0}的传送点." />
+  <Translation Id="warp_cant_warp_in_car" Value="错误: 无法传送在车里的玩家." />
+  <Translation Id="warp_other_not_allowed" Value="错误: 不允许传送其他玩家." />
+  <Translation Id="warp_console_no_player" Value="错误: 没有足够的权限." />
+  <Translation Id="setwarp_set" Value="传送点已经设置." />
+  <Translation Id="setwarp_not_set" Value="错误: 无法设置传送点." />
+  <Translation Id="delwarp_removed" Value="传送点已被删除." />
+  <Translation Id="delwarp_not_found" Value="错误: 改名称的传送点不存在." />
+  <Translation Id="delwarpall_removed" Value="已删除名为{0}的传送点." />
+  <Translation Id="warps_none_found" Value="错误: 抱歉没有找到任何记录." />
+  <Translation Id="warps_list_header" Value="传送点列表中共有 {0} 传送点." />
+  <Translation Id="warps_list" Value="传送点: {0}." />
+  <Translation Id="insufficient_funds" Value="错误: 你没有足够的 {0} 来使用此命令." />
+  <Translation Id="charge_success" Value="传送将收费 {0} {1}, 你当前的余额为 {2} {3}." />
+</Translations>

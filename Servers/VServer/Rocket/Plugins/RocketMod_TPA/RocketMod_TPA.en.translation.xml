@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="help_line_1" Value="/tpa (玩家名) - 发送传送请求." />
+  <Translation Id="help_line_2" Value="/tpa accept - 接受您最新的TPA请求." />
+  <Translation Id="help_line_3" Value="/tpa deny - 拒绝您最新的TPA请求." />
+  <Translation Id="help_line_4" Value="/tpa abort - 中止您的待处理请求." />
+  <Translation Id="playerNotFound" Value="找不到那个玩家!" />
+  <Translation Id="playerInCar" Value="传送失败,玩家在车里." />
+  <Translation Id="YouInCar" Value="传送失败,你无法在汽车中传送." />
+  <Translation Id="TimeLeft" Value="剩下的时间用于另一个请求: {0}" />
+  <Translation Id="Delay" Value="您的传送将在{0} {1}开始." />
+  <Translation Id="Seconds" Value="秒" />
+  <Translation Id="nopermission_send" Value="您无权发送TPA请求." />
+  <Translation Id="nopermission_accept" Value="您无权接受TPA请求." />
+  <Translation Id="error_cooldown" Value="您每隔{0}秒只能发送一次请求." />
+  <Translation Id="error_bleeding" Value="出血时您可能无法传送,在您安全时重新发送TPA." />
+  <Translation Id="error_hurt" Value="当你受伤时,你可能不会传送!" />
+  <Translation Id="help_line_1" Value="TPA允许您向另一位玩家请求传送." />
+  <Translation Id="request_success" Value="你的传送已经成功!" />
+  <Translation Id="request_accepted" Value="您已接受{0} TPA请求!" />
+  <Translation Id="request_denied" Value="你已经拒绝了{0}的请求!" />
+  <Translation Id="request_accepted_1" Value="{0}接受了您的tpa请求!" />
+  <Translation Id="request_accepted_2" Value="{0}已接受您的tpa请求，并将在{1} {2}传送." />
+  <Translation Id="request_accepted_3" Value="您已接受{0}的tpa请求，他们将在{1} {2}传送." />
+  <Translation Id="request_denied_1" Value="{0}拒绝了您的tpa请求!" />
+  <Translation Id="request_sent" Value="您已向{0}发送了tpa请求" />
+  <Translation Id="request_sent_1" Value="{0}向您发送了tpa请求，请/tpa接受接受!" />
+  <Translation Id="request_pending" Value="您已向该玩家发出待处理请求." />
+  <Translation Id="request_none" Value="你没有请求!" />
+  <Translation Id="request_abort" Value="您已中止了TPA请求." />
+  <Translation Id="translation_version_dont_edit" Value="3" />
+</Translations>

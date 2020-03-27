@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RocketPermissions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DefaultGroup>default</DefaultGroup>
+  <Groups>
+    <Group>
+      <Id>default</Id>
+      <DisplayName>NEW</DisplayName>
+      <Color>white</Color>
+      <Members>
+        <Member />
+      </Members>
+      <Permissions>
+        <Permission Cooldown="0">reward</Permission>
+        <Permission Cooldown="0">balance</Permission>
+        <Permission Cooldown="0">sell</Permission>
+        <Permission Cooldown="0">buy</Permission>
+        <Permission Cooldown="0">cost</Permission>
+        <Permission Cooldown="0">color.white</Permission>
+        <Permission Cooldown="0">pay</Permission>
+        <Permission Cooldown="0">home</Permission>
+        <Permission Cooldown="0">rocket</Permission>
+        <Permission Cooldown="0">deathmessage</Permission>
+        <Permission Cooldown="0">color.white</Permission>
+        <Permission Cooldown="0">wreck</Permission>
+        <Permission Cooldown="0">rules</Permission>
+        <Permission Cooldown="0">tpa</Permission>
+        <Permission Cooldown="0">tpa.send</Permission>
+        <Permission Cooldown="0">tpa.accept</Permission>
+        <Permission Cooldown="0">tpa.deny</Permission>
+         <Permission Cooldown="0">kits</Permission>
+         <Permission Cooldown="0">kit</Permission>
+        <Permission Cooldown="0">kit.xinshou</Permission>
+        <Permission Cooldown="0">libao</Permission>
+        <Permission Cooldown="0">hitman.receive.</Permission>
+        <Permission Cooldown="0">hitman.add</Permission>
+        <Permission Cooldown="0">hitman.payout</Permission>
+        <Permission Cooldown="0">hitman.check</Permission>
+        <Permission Cooldown="0">hitman.list </Permission>
+        <Permission Cooldown="0">stats</Permission>
+        <Permission Cooldown="0">stats.admin</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>SSSVIP</Id>
+      <DisplayName>SSSVIP</DisplayName>
+      <Color>#63B8FF</Color>
+      <Members>
+     
+
+      </Members>
+      <Permissions>
+        <Permission Cooldown="0">color.#63B8FF</Permission>
+        <Permission Cooldown="0">home</Permission>
+        <Permission Cooldown="0">kit.SSSVIP</Permission>
+        <Permission Cooldown="0">i</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>SSVIP</Id>
+      <DisplayName>SSVIP</DisplayName>
+      <Color>#8A2BE2</Color>
+      <Members>
+        <Member />
+      </Members>
+      <Permissions>
+        <Permission Cooldown="0">color.#8A2BE2</Permission>
+        <Permission Cooldown="0">home</Permission>
+        <Permission Cooldown="0">kit.SSVIP</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>SVIP</Id>
+      <DisplayName>SVIP</DisplayName>
+      <Color>#32CD32</Color>
+      <Members>
+        <Member />
+      </Members>
+      <Permissions>
+        <Permission Cooldown="0">color.#32CD32</Permission>
+        <Permission Cooldown="0">home</Permission>
+        <Permission Cooldown="0">kit.SVIP</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>VIP</Id>
+      <DisplayName>VIP</DisplayName>
+      <Color>#EEEE00</Color>
+      <Members>
+        <Member />
+      </Members>
+      <Permissions>
+        <Permission Cooldown="0">color.#EEEE00</Permission>
+        <Permission Cooldown="0">home</Permission>
+        <Permission Cooldown="0">kit.VIP</Permission>
+      </Permissions>
+    </Group>
+  </Groups>
+</RocketPermissions>

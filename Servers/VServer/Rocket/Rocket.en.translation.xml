@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="rocket_join_public" Value="{0} 连接到服务器" />
+  <Translation Id="rocket_leave_public" Value="{0} 与服务器断开连接" />
+  <Translation Id="command_rwho_line" Value="#{0}, 连接 ID: {1}, 权限: {2}, 地址: {3}, 连接时间: {4}, 连接自: {5}." />
+  <Translation Id="command_rkick_help" Value="用法: rkick &lt;ConnectionID&gt; - 将客户从rcon中踢出" />
+  <Translation Id="command_rkick_notfound" Value="错误: RCON 客户端连接ID: {0} 未找到!" />
+  <Translation Id="command_rkick_kicked" Value="RCON 客户端被踢出 连接ID: {0}, 地址: {1}!" />
+  <Translation Id="command_rflush_help" Value="用法: rflush &lt;y&gt; - 断开所有RCON客户端." />
+  <Translation Id="command_rflush_total" Value="关闭 {0} RCON 连接." />
+  <Translation Id="command_rflush_line" Value="#{0}, 连接ID: {1}, 地址: {2}, 关闭!" />
+  <Translation Id="command_no_permission" Value="你没有权限使用这条命令." />
+  <Translation Id="command_cooldown" Value="你必须等待 {0} 秒才能再次使用这条命令." />
+</Translations>

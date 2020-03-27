@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="jailtime_console_display" Value="JokTime: 由ApokPT提供。 由Lossy修正。 并由noammiz007更新." />
+  <Translation Id="jailtime_inv_playerInvError" Value="JokTime: 可以清除玩家的库存. " />
+  <Translation Id="jailtime_inv_fullError" Value="JailTime: 完整的问题描述: " />
+  <Translation Id="jailtime_jail_notset" Value="没有设置监狱，请先使用 /jail set [名称]! " />
+  <Translation Id="jailtime_jail_notfound" Value="找不到名为{0}的监狱! " />
+  <Translation Id="jailtime_jail_set" Value="您所在的位置创建了名为{0}的新监狱! " />
+  <Translation Id="jailtime_jail_exists" Value="名为{0}的监狱已存在! " />
+  <Translation Id="jailtime_jail_unset" Value="名为{0}的监狱已删除! " />
+  <Translation Id="jailtime_jail_list" Value="监狱牢房: {0} " />
+  <Translation Id="jailtime_player_immune" Value="该玩家不能被捕! " />
+  <Translation Id="jailtime_player_in_jail" Value="玩家{0}已经入狱! " />
+  <Translation Id="jailtime_player_arrested" Value="玩家{0}被关押在{1}牢房中! " />
+  <Translation Id="jailtime_player_released" Value="玩家{0}从监狱释放! " />
+  <Translation Id="jailtime_player_list" Value="玩家们: {0} " />
+  <Translation Id="jailtime_player_list_clear" Value="监狱牢房变得尘土飞扬! " />
+  <Translation Id="jailtime_player_notfound" Value="找不到任何玩家 {0}! " />
+  <Translation Id="jailtime_player_arrest_msg" Value="你被逮捕了，将被关押{0}秒! " />
+  <Translation Id="jailtime_player_release_msg" Value="你已经被释放了! " />
+  <Translation Id="jailtime_player_back_msg" Value="回到你的牢房! " />
+  <Translation Id="jailtime_help" Value="/jail 命令: add, remove, set, unset, list, teleport " />
+  <Translation Id="jailtime_help_add" Value="使用 /jail add &lt;玩家名&gt; &lt;时间(整数,秒)&gt; &lt;监狱名&gt; - 关押一名玩家, 如果没有 &lt;监狱名&gt; 则系统会随机一个监狱 " />
+  <Translation Id="jailtime_help_remove" Value="使用 /jail remove &lt;玩家名&gt; - 从监狱释放指定玩家 " />
+  <Translation Id="jailtime_help_list" Value="使用 /jail list players 或 /jail list cells " />
+  <Translation Id="jailtime_help_set" Value="使用 /jail set &lt;监狱名&gt; - 创建一个新监狱 " />
+  <Translation Id="jailtime_help_unset" Value="使用 /jail unset &lt;监狱名&gt; - 删除一个监狱 " />
+  <Translation Id="jailtime_help_teleport" Value="使用 /jail teleport &lt;监狱名&gt; - 传送到指定的监狱 " />
+  <Translation Id="jailtime_ban" Value="您在监狱期间被禁止断开连接! " />
+  <Translation Id="jailtime_ban_time" Value="您在监狱期间因退出而被暂时Ban! " />
+</Translations>

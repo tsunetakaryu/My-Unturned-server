@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UconomyEConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PayTime>true</PayTime>
+  <PayGroups>
+    <Group DisplayName="admin" Salary="100" />
+    <Group DisplayName="moderator" Salary="200" />
+    <Group DisplayName="vip1" Salary="10" />
+    <Group DisplayName="vip2" Salary="20" />
+    <Group DisplayName="vip3" Salary="30" />
+    <Group DisplayName="vip4" Salary="40" />
+    <Group DisplayName="default" Salary="2" />
+    <Group DisplayName="caifu" Salary="30" />
+  </PayGroups>
+  <PayTimeSeconds>60</PayTimeSeconds>
+  <PayHit>true</PayHit>
+  <PayHitAmt>10</PayHitAmt>
+  <SendPayHitMsg>true</SendPayHitMsg>
+  <LoseSuicide>true</LoseSuicide>
+  <LoseSuicideAmt>10</LoseSuicideAmt>
+  <ExpExchange>true</ExpExchange>
+  <ExpExchangerate>2</ExpExchangerate>
+  <MoneyExchange>true</MoneyExchange>
+  <MoneyExchangerate>0.5</MoneyExchangerate>
+  <LoseMoneyOnDeath>true</LoseMoneyOnDeath>
+  <LoseMoneyOnDeathAmt>10</LoseMoneyOnDeathAmt>
+  <PayZombie>true</PayZombie>
+  <PayZombieAmt>5</PayZombieAmt>
+  <SendPayZombieMsg>true</SendPayZombieMsg>
+  <PayMegaZombie>true</PayMegaZombie>
+  <PayMegaZombieAmt>1000</PayMegaZombieAmt>
+  <SendPayMegaZombieMsg>true</SendPayMegaZombieMsg>
+</UconomyEConfiguration>

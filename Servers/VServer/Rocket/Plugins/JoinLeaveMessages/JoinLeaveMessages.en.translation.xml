@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="connect_message" Value="{0} 连接到服务器." />
+  <Translation Id="disconnect_message" Value="{0} 与服务器断开连接." />
+  <Translation Id="connect_group_message" Value="{0}{1} 连接到服务器." />
+  <Translation Id="disconnect_group_message" Value="{0}{1} 与服务器断开连接." />
+  <Translation Id="connect_message_extended" Value="{0} [{1}] ({2}) 连接到服务器." />
+  <Translation Id="disconnect_message_extended" Value="{0} [{1}] ({2}) 与服务器断开连接." />
+  <Translation Id="connect_group_message_extended" Value="{0}{1} [{2}] ({3}) 连接到服务器." />
+  <Translation Id="disconnect_group_message_extended" Value="{0}{1} [{2}] ({3}) 与服务器断开连接." />
+  <Translation Id="connect_message_country" Value="{0}已从{1}连接." />
+</Translations>

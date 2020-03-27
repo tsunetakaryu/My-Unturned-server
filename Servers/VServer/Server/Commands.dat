@@ -1,0 +1,17 @@
+name 偏振光-俄罗斯
+bindip 0.0.0.0
+port 51000
+maxplayers 15
+Chatrate 604800
+Mode Easy
+Owner 76561198181125833
+password 
+Map Russia
+PVE
+Perspective Both
+Timeout 400
+Welcome Level normal, got some mods, have fun. 
+Loadout 255/
+Cycle 1200
+nosync
+Cheats  Enabled

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HidePlugins>>false</HidePlugins>
+  <HideWorkshop>false</HideWorkshop>
+  <HideConfig>false</HideConfig>
+  <Enable_CustomEntries>false</Enable_CustomEntries>
+  <CustomEntries>
+    <Entry>Plugin 1</Entry>
+    <Entry>Plugin 2</Entry>
+    <Entry>Plugin 3</Entry>
+  </CustomEntries>
+  <Enable_LargeServer>ture</Enable_LargeServer>
+</Config>

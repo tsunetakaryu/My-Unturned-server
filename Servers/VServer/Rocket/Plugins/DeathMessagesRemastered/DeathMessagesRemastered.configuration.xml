@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DMC2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <messagecolour>yellow</messagecolour>
+  <suicidemsg>true</suicidemsg>
+  <healthwarningmsg>true</healthwarningmsg>
+  <ExperienceEnabled>true</ExperienceEnabled>
+  <UconomyEnabled>true</UconomyEnabled>
+  <ShowErrorMessages>false</ShowErrorMessages>
+  <ShowDebugInfo>false</ShowDebugInfo>
+  <warning1>警告:你就要死了!</warning1>
+  <warning2>赶紧治疗自己!</warning2>
+  <zombie>被一个僵尸吓坏了!</zombie>
+  <gun>射杀</gun>
+  <melee>近战</melee>
+  <melee2>死亡!</melee2>
+  <punch>拳击</punch>
+  <punch2>死亡</punch2>
+  <roadkill>跑过来</roadkill>
+  <vehicle>因车辆爆炸而死亡！!</vehicle>
+  <food>饿死了!</food>
+  <water>脱水死!</water>
+  <infection>被感染!</infection>
+  <bleeding>失血死!</bleeding>
+  <suicide>自杀!</suicide>
+  <landmine>被地雷炸飞!</landmine>
+  <breath>窒息!</breath>
+  <grenade>手雷!</grenade>
+  <charge>惩戒!</charge>
+  <missile>导弹!</missile>
+  <freezing>寒冷!</freezing>
+  <bones>他们死了!</bones>
+  <sentry>被击落!</sentry>
+  <splash> 被溅射!</splash>
+  <headshotgun>被枪击!</headshotgun>
+  <headchop>被爆头!</headchop>
+  <headpunch>头痛!</headpunch>
+  <shred>被粉碎!</shred>
+  <acid>被腐蚀!</acid>
+  <spit>被呕吐!</spit>
+  <fire>被点燃!</fire>
+  <spark>自爆</spark>
+  <boulder>巨石!</boulder>
+  <usinga>使用</usinga>
+  <Groups>
+    <Group>default</Group>
+    <Group>vip</Group>
+  </Groups>
+  <Head>30</Head>
+  <Arm>5</Arm>
+  <Leg>5</Leg>
+  <Body>15</Body>
+  <Roadkill>10</Roadkill>
+  <ExpHead>50</ExpHead>
+  <ExpBody>25</ExpBody>
+  <ExpArm>30</ExpArm>
+  <ExpLeg>30</ExpLeg>
+</DMC2>

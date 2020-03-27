@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="gun" Value="{0} [GUN] {2} {1}" />
+  <Translation Id="kill" Value="ADMIN [KILL] {0}" />
+  <Translation Id="null" Value="[NULL] {0}" />
+  <Translation Id="food" Value="[FOOD] {0}" />
+  <Translation Id="arena" Value="[ARENA] {0}" />
+  <Translation Id="shred" Value="[SHRED] {0}" />
+  <Translation Id="punch" Value="{0} [PUNCH] {2} {1}" />
+  <Translation Id="bones" Value="[BONES] {0}" />
+  <Translation Id="melee" Value="{0} [MELEE] {2} {1}" />
+  <Translation Id="water" Value="[WATER] {0}" />
+  <Translation Id="breath" Value="[BREATH] {0}" />
+  <Translation Id="zombie" Value="[ZOMBIE] {0}" />
+  <Translation Id="animal" Value="[ANIMAL] {0}" />
+  <Translation Id="grenade" Value="??? [EXPLOSION] {0}" />
+  <Translation Id="vehicle" Value="[VEHICLE] {0}" />
+  <Translation Id="suicide" Value="[SUICIDE] {0}" />
+  <Translation Id="burning" Value="[BURNING] {0}" />
+  <Translation Id="headshot" Value="+ [HEADSHOT]" />
+  <Translation Id="landmine" Value="??? [LANDMINE] {0}" />
+  <Translation Id="roadkill" Value="{0} [ROADKILL] {1}" />
+  <Translation Id="bleeding" Value="[BLEEDING] {0}" />
+  <Translation Id="freezing" Value="[FREEZING] {0}" />
+  <Translation Id="infection" Value="[INFECTION] {0}" />
+</Translations>

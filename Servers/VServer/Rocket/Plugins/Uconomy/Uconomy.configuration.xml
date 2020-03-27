@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UconomyConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DatabaseAddress>127.0.0.1</DatabaseAddress>
+  <DatabaseUsername>db16835</DatabaseUsername>
+  <DatabasePassword>7JQdusloEn</DatabasePassword>
+  <DatabaseName>db16835</DatabaseName>
+  <DatabaseTableName>uconomy</DatabaseTableName>
+  <DatabasePort>3306</DatabasePort>
+  <InitialBalance>1000</InitialBalance>
+  <MoneyName>RMB</MoneyName>
+</UconomyConfiguration>

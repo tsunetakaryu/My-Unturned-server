@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation Id="pay_time_msg" Value="你收到在线奖励 {0} {1} " />
+  <Translation Id="unable_to_pay_group_msg" Value="无法支付 {0} 你没有 {1} 权限." />
+  <Translation Id="to_killer_msg" Value="你杀死了 {2} 从他身上搜到 {0} {1} " />
+  <Translation Id="lose_suicide_msg" Value="你自杀失去 {0} {1} " />
+  <Translation Id="new_balance_msg" Value="你目前拥有 {0} {1} ." />
+  <Translation Id="lose_money_on_death_msg" Value="你被杀死失去了 {0} {1} " />
+  <Translation Id="apay_msg" Value="你支付给了 {0} ，{1} {2} ." />
+  <Translation Id="apaid_msg" Value="{0} 支付给你 {1} {2}. 你现在有 {3} {4}." />
+  <Translation Id="experience_exchange_not_available" Value="对不起，经验交流不可用.向你的管理员来启用它." />
+  <Translation Id="money_exchange_not_available" Value="对不起，货币兑换不可用.向你的管理员来启用它." />
+  <Translation Id="exchange_zero_amount_error" Value="你必须输入经验或者金钱的数额来交换." />
+  <Translation Id="exchange_insufficient_experience" Value="你没有 {0} 经验." />
+  <Translation Id="exchange_insufficent_money" Value="你没有 {0} {1}." />
+  <Translation Id="apay_usage_msg" Value="用法: /apay &lt; 玩家的ID &gt; &lt;amt&gt;" />
+  <Translation Id="exchange_usage_msg" Value="用法: /exchange &lt; 数量 &gt; money (后面输入money将兑换成经验，否则默认将兑换成金币)" />
+  <Translation Id="not_valid_player_msg" Value="{0} 不是有效的游戏玩家ID." />
+  <Translation Id="not_valid_amount" Value="{0} 不是正确的数量或金额." />
+  <Translation Id="zombie_kill_paid_msg" Value="成功击杀僵尸奖励 {0} {1} " />
+  <Translation Id="mega_zombie_kill_paid_msg" Value="成功击杀boss僵尸奖励 {0} {1} 你现在有 {2} {3} ." />
+</Translations>

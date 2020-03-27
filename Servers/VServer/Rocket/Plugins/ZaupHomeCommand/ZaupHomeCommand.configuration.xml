@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HomeCommandConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enabled>true</Enabled>
+  <DisabledMsg>抱歉 {0}, 回家指令未开启.</DisabledMsg>
+  <NoBedMsg>抱歉 {0}, 没有找到您的床 </NoBedMsg>
+  <NoVehicleMsg>抱歉 {0}, 您不能在车里传送.</NoVehicleMsg>
+  <TeleportWait>true</TeleportWait>
+  <WaitGroups>
+    <HomeGroup Id="admin" Wait="1" />
+    <HomeGroup Id="moderator" Wait="1" />
+    <HomeGroup Id="default" Wait="15" />
+    <HomeGroup Id="vip1" Wait="10" />
+    <HomeGroup Id="vip2" Wait="5" />
+    <HomeGroup Id="vip3" Wait="2" />
+    <HomeGroup Id="vip4" Wait="0" />
+    <HomeGroup Id="svip" Wait="1" />
+  </WaitGroups>
+  <TeleportMsg>您已被传送到床边.</TeleportMsg>
+  <FoundBedNowWaitMsg>已找到您的床 ,  {1} 秒后开始传送.</FoundBedNowWaitMsg>
+  <MovementRestriction>false</MovementRestriction>
+  <FoundBedWaitNoMoveMsg>已找到您的床 {0}, 正在传送， {1}秒钟内禁止移动 .</FoundBedWaitNoMoveMsg>
+  <UnableMoveSinceMoveMsg>抱歉 {0}, 您已移动，取消传送</UnableMoveSinceMoveMsg>
+  <NoTeleportDiedMsg>抱歉 {0}, 死后不能传送.</NoTeleportDiedMsg>
+</HomeCommandConfiguration>

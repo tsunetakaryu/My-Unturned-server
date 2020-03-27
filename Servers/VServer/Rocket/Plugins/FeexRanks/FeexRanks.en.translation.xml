@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="general_onjoin" Value="[{2}] {3} ({0} 分 排位 {1}) 进入了服务器。" />
+  <Translation Id="general_onleave" Value="[{2}] {3} ({0} 分 排位 {1}) 退出了服务器." />
+  <Translation Id="general_not_found" Value="找不到这个战士." />
+  <Translation Id="general_invalid_parameter" Value="输入错误.." />
+  <Translation Id="rank_self" Value="你现在的排位是： {1} ，你有 {0} 分 [{2}]" />
+  <Translation Id="rank_other" Value="{3} 的排位为 {1} ，他有 {0} 分 [{2}]" />
+  <Translation Id="list_1" Value="天梯排行版前三名" />
+  <Translation Id="list_2" Value="第一名{1} [{2}] {3} ({0} 分)" />
+  <Translation Id="list_3" Value="第二名 {1} [{2}] {3} ({0} 分)" />
+  <Translation Id="list_4" Value="第三名{1} [{2}] {3} ({0} 分)" />
+  <Translation Id="list_search" Value="等级 {1}: [{2}] {3} ({0} 分)" />
+  <Translation Id="list_search_not_found" Value="等级未找到." />
+  <Translation Id="points_reset_player" Value="你的分数被重置，请联系op." />
+  <Translation Id="points_reset_caller" Value="{0}的分数被重置" />
+  <Translation Id="points_set_player" Value="你的分数被设定为 {0}." />
+  <Translation Id="points_set_caller" Value="{1} 的分数被设定为 {0}." />
+  <Translation Id="points_add_player" Value="你获得了 {0} 分" />
+  <Translation Id="points_add_caller" Value="你送了{0} 分给 {1}." />
+  <Translation Id="points_remove_player" Value="你失去了 {0} 分." />
+  <Translation Id="points_remove_caller" Value="你获得了 {0} 分来自 {1}." />
+  <Translation Id="level_up" Value="你上升了{1} 因为 {0} 分" />
+  <Translation Id="level_up_kit" Value="你升级了并且获得了 {0}礼包.." />
+  <Translation Id="level_up_uconomy" Value="恭喜你！等级上升为 {0}.." />
+  <Translation Id="level_up_global" Value="{2} 升级为 {1} 带着 {0} 分." />
+  <Translation Id="event_ACCURACY" Value="你获得了 {0} 分. (总分 {1} )" />
+  <Translation Id="event_ARENA_WINS" Value="你竞技场获胜获得了 {0} 分. (总分 {1} )" />
+  <Translation Id="event_DEATHS_PLAYERS" Value="杀死玩家得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_FOUND_BUILDABLES" Value="你获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_FOUND_CRAFTS" Value="你获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_FOUND_EXPERIENCE" Value="你获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_FOUND_FISHES" Value="钓鱼获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_FOUND_ITEMS" Value="找到物品获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_FOUND_PLANTS" Value="种树得分{0} 分. (总分{1} )" />
+  <Translation Id="event_FOUND_RESOURCES" Value="找到资源获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_FOUND_THROWABLES" Value="你获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_HEADSHOTS" Value="爆头杀获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_KILLS_ANIMALS" Value="击杀动物获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_KILLS_PLAYERS" Value="击杀玩家获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_KILLS_ZOMBIES_MEGA" Value="击杀僵尸boss获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_KILLS_ZOMBIES_NORMAL" Value="击杀僵尸获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_NONE" Value="您收到了{0}分。 (总分{1}分)" />
+  <Translation Id="event_TRAVEL_FOOT" Value="徒步旅行获得了 {0} 分. (总分{1} )" />
+  <Translation Id="event_TRAVEL_VEHICLE" Value="载具旅行获得了 {0} 分. (总分{1} )" />
+  <Translation Id="level_up_rank" Value="您升级了并获得了权限等级{0}." />
+</Translations>

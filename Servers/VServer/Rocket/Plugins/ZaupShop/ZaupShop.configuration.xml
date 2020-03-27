@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ZaupShopConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ItemShopTableName>uconomyitemshop</ItemShopTableName>
+  <VehicleShopTableName>uconomyvehicleshop</VehicleShopTableName>
+  <CanBuyItems>true</CanBuyItems>
+  <CanBuyVehicles>true</CanBuyVehicles>
+  <CanSellItems>true</CanSellItems>
+  <QualityCounts>true</QualityCounts>
+</ZaupShopConfiguration>

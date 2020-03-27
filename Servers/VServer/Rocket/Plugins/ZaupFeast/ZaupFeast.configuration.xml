@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FeastConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enabled>true</Enabled>
+  <MinDropTime>600</MinDropTime>
+  <MaxDropTime>1200</MaxDropTime>
+  <DropRadius>20</DropRadius>
+  <MinItemsDrop>10</MinItemsDrop>
+  <MaxItemsDrop>25</MaxItemsDrop>
+  <SkyDrop>false</SkyDrop>
+  <PlaneEffectId>1001</PlaneEffectId>
+  <SkydropEffectId>1006</SkydropEffectId>
+  <MessageColor>red</MessageColor>
+  <Items>
+    <FeastItem>
+      <Id>66</Id>
+      <Name>Cloth</Name>
+      <Chance>10</Chance>
+      <Locations>
+        <string>all</string>
+      </Locations>
+    </FeastItem>
+    <FeastItem>
+      <Id>43</Id>
+      <Name>Military Ammunition Box</Name>
+      <Chance>10</Chance>
+      <Locations>
+        <string>all</string>
+      </Locations>
+    </FeastItem>
+    <FeastItem>
+      <Id>44</Id>
+      <Name>Civilian Ammunition Box</Name>
+      <Chance>10</Chance>
+      <Locations>
+        <string>all</string>
+      </Locations>
+    </FeastItem>
+    <FeastItem>
+      <Id>13</Id>
+      <Name>Canned Beans</Name>
+      <Chance>10</Chance>
+      <Locations>
+        <string>all</string>
+      </Locations>
+    </FeastItem>
+    <FeastItem>
+      <Id>14</Id>
+      <Name>Bottled Water</Name>
+      <Chance>10</Chance>
+      <Locations>
+        <string>all</string>
+      </Locations>
+    </FeastItem>
+    <FeastItem>
+      <Id>10</Id>
+      <Name>Police Vest</Name>
+      <Chance>10</Chance>
+      <Locations>
+        <string>all</string>
+      </Locations>
+    </FeastItem>
+    <FeastItem>
+      <Id>251</Id>
+      <Name>White Travelpack</Name>
+      <Chance>10</Chance>
+      <Locations>
+        <string>all</string>
+      </Locations>
+    </FeastItem>
+    <FeastItem>
+      <Id>223</Id>
+      <Name>Police Top</Name>
+      <Chance>10</Chance>
+      <Locations>
+        <string>all</string>
+      </Locations>
+    </FeastItem>
+    <FeastItem>
+      <Id>224</Id>
+      <Name>Police Bottom</Name>
+      <Chance>10</Chance>
+      <Locations>
+        <string>all</string>
+      </Locations>
+    </FeastItem>
+    <FeastItem>
+      <Id>366</Id>
+      <Name>Maple Crate</Name>
+      <Chance>10</Chance>
+      <Locations>
+        <string>all</string>
+      </Locations>
+    </FeastItem>
+  </Items>
+</FeastConfiguration>

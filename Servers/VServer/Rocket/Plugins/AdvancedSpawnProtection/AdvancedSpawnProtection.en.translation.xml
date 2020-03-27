@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="prot_started" Value="你的出生保护时间还有 {0} 秒!" />
+  <Translation Id="canceled_item" Value="因为你装备了一个装备,你的出生保护时间结束了!" />
+  <Translation Id="expired" Value="你的出生保护时间已经结束了!" />
+  <Translation Id="canceled_veh" Value="因为你和他人组队,你的出生保护时间结束了!" />
+  <Translation Id="admin_prot_enabled" Value="启用出生保护 {0}!" />
+  <Translation Id="admin_prot_disabled" Value="弱势群体保护 {0}!" />
+  <Translation Id="usage_start" Value="请使用正确的命令: /pstart &lt;player&gt;" />
+  <Translation Id="usage_stop" Value="请使用正确的命令: /pstop &lt;player&gt;" />
+  <Translation Id="noplayer" Value="玩家 '{0}' 不存在!" />
+  <Translation Id="canceled_punch" Value="因为你攻击了他人,你的出生保护结束了!" />
+  <Translation Id="canceled_dist" Value="因为离开出生地,你的出生保护结束了!" />
+  <Translation Id="canceled_bedrespawn" Value="由于您在床上出生，所以没有得到出生保护" />
+  <Translation Id="protection_excluded" Value="你为自己禁用了出生保护, 使用 /toggleprotection 可以重新启用" />
+  <Translation Id="toggled_protection_on" Value="您现在将获得出生保护" />
+  <Translation Id="toggled_protection_off" Value="您不再受到出生保护的影响" />
+</Translations>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Stats>
+  <PvP>
+    <TotalKills>0</TotalKills>
+    <GunKills>0</GunKills>
+    <MeleeKills>0</MeleeKills>
+    <PunchKills>0</PunchKills>
+    <RoadKills>0</RoadKills>
+    <TotalDeaths>1</TotalDeaths>
+    <GunDeaths>0</GunDeaths>
+    <MeleeDeaths>0</MeleeDeaths>
+    <PunchDeaths>0</PunchDeaths>
+    <RoadDeaths>0</RoadDeaths>
+    <SuicideDeaths>1</SuicideDeaths>
+    <KDRatio>0</KDRatio>
+  </PvP>
+  <PvE>
+    <TotalDeaths>0</TotalDeaths>
+    <ZombieDeaths>0</ZombieDeaths>
+    <VehicleDeaths>0</VehicleDeaths>
+    <FoodDeaths>0</FoodDeaths>
+    <WaterDeaths>0</WaterDeaths>
+    <InfectionDeaths>0</InfectionDeaths>
+    <BleedingDeaths>0</BleedingDeaths>
+  </PvE>
+</Stats>

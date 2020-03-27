@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="command_balance_show" Value="你目前有： {0} {1} ." />
+  <Translation Id="command_pay_invalid" Value="指令输入错误！" />
+  <Translation Id="command_pay_error_pay_self" Value="你不能给自己钱！" />
+  <Translation Id="command_pay_error_invalid_amount" Value="错误的数额！" />
+  <Translation Id="command_pay_error_cant_afford" Value="没有足够的余额！" />
+  <Translation Id="command_pay_error_player_not_found" Value="没有找到玩家！" />
+  <Translation Id="command_pay_private" Value="你支付给 {0} {1} {2}" />
+  <Translation Id="command_pay_other_private" Value="你收到了 {2} 的 {0}{1}" />
+  <Translation Id="command_pay_console" Value="您收到{0} {1}的付款 " />
+  <Translation Id="command_balance_error_player_not_found" Value="找不到玩家!" />
+  <Translation Id="command_balance_check_noPermissions" Value="权限不足!" />
+  <Translation Id="command_balance_show_otherPlayer" Value="{0}的当前余额为{0} {1} {2}" />
+</Translations>

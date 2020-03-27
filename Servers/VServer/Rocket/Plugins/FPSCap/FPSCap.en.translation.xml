@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="invalid_arg" Value="无效的参数." />
+  <Translation Id="tps_set" Value="服务器TPS已设置为：{0} TPS." />
+  <Translation Id="ltps_command_help" Value="&lt;TPS&gt; - 将服务器tps/fps限制为命令中设置的值。 0 禁用TPS上限." />
+  <Translation Id="tps_tps" Value="TPS: {0}" />
+  <Translation Id="tps_running_since" Value="运行时间：{0} UTC，已运行：{1} "/>
+</Translations>
