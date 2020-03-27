@@ -2,14 +2,12 @@
 <MessageAnnouncerConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Interval>30</Interval>
   <Messages>
-    <Message Text="欢迎来到这个服务器 " Color="#FFBBFF" />
-    <Message Text="将服务器添加收藏，方便下次进入 新手礼包/kit xinshou" Color="#FFBBFF" />
-    <Message Text="查看物品id，购买价格，出售价格请联系腐竹 " Color="#FFBBFF" />
+    <Message Text="欢迎来到这个服务器" Color="#FFBBFF" />
+    <Message Text="将服务器添加收藏，方便下次进入" Color="#FFBBFF" />
+    <Message Text="服务器群号：838699506" Color="#FFBBFF" />
     <Message Text="若发现使用外挂/卡BUG玩家 请联系群管理员" Color="#FFBBFF" />
     <Message Text="输入/TPA XX 传送 /tpa accept 接受传送" Color="##FFBBFF" />
     <Message Text="服务器禁止抄家 发现拆别人家的玩家 永久踢出服务器" Color="#00FFFF" />
-    <Message Text="购买物品/buy [id] [数量]  出售物品/sell [id] [数量]  查询物价/cost [id]" Color="#FFBBFF" />
-    <Message Text="租服务器联系:2885408109" Color="#FFBBFF" />
   </Messages>
   <TextCommands>
     <TextCommand>
