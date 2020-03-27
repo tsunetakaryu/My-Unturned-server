@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<HomeCommandConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<HomeCommandConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Enabled>true</Enabled>
   <DisabledMsg>抱歉 {0}, 回家指令未开启.</DisabledMsg>
   <NoBedMsg>抱歉 {0}, 没有找到您的床 </NoBedMsg>

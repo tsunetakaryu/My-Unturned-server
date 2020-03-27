@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Translation Id="coming_feast_msg" Value="假期礼包 {1}分钟内 从天上掉到 {0} !" />
   <Translation Id="now_feast_msg" Value="假期礼包到了{0}!赶紧去领取吧！" />
 </Translations>

@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RocketPermissions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<RocketPermissions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DefaultGroup>default</DefaultGroup>
   <Groups>
     <Group>
       <Id>default</Id>
       <DisplayName>NEW</DisplayName>
+      <Prefix />
+      <Suffix />
       <Color>white</Color>
       <Members>
         <Member />
       </Members>
+      <Priority>100</Priority>
       <Permissions>
         <Permission Cooldown="0">reward</Permission>
         <Permission Cooldown="0">balance</Permission>
@@ -27,8 +30,8 @@
         <Permission Cooldown="0">tpa.send</Permission>
         <Permission Cooldown="0">tpa.accept</Permission>
         <Permission Cooldown="0">tpa.deny</Permission>
-         <Permission Cooldown="0">kits</Permission>
-         <Permission Cooldown="0">kit</Permission>
+        <Permission Cooldown="0">kits</Permission>
+        <Permission Cooldown="0">kit</Permission>
         <Permission Cooldown="0">kit.xinshou</Permission>
         <Permission Cooldown="0">libao</Permission>
         <Permission Cooldown="0">hitman.receive.</Permission>
@@ -43,11 +46,11 @@
     <Group>
       <Id>SSSVIP</Id>
       <DisplayName>SSSVIP</DisplayName>
+      <Prefix />
+      <Suffix />
       <Color>#63B8FF</Color>
-      <Members>
-     
-
-      </Members>
+      <Members />
+      <Priority>100</Priority>
       <Permissions>
         <Permission Cooldown="0">color.#63B8FF</Permission>
         <Permission Cooldown="0">home</Permission>
@@ -58,10 +61,13 @@
     <Group>
       <Id>SSVIP</Id>
       <DisplayName>SSVIP</DisplayName>
+      <Prefix />
+      <Suffix />
       <Color>#8A2BE2</Color>
       <Members>
         <Member />
       </Members>
+      <Priority>100</Priority>
       <Permissions>
         <Permission Cooldown="0">color.#8A2BE2</Permission>
         <Permission Cooldown="0">home</Permission>
@@ -71,10 +77,13 @@
     <Group>
       <Id>SVIP</Id>
       <DisplayName>SVIP</DisplayName>
+      <Prefix />
+      <Suffix />
       <Color>#32CD32</Color>
       <Members>
         <Member />
       </Members>
+      <Priority>100</Priority>
       <Permissions>
         <Permission Cooldown="0">color.#32CD32</Permission>
         <Permission Cooldown="0">home</Permission>
@@ -84,10 +93,13 @@
     <Group>
       <Id>VIP</Id>
       <DisplayName>VIP</DisplayName>
+      <Prefix />
+      <Suffix />
       <Color>#EEEE00</Color>
       <Members>
         <Member />
       </Members>
+      <Priority>100</Priority>
       <Permissions>
         <Permission Cooldown="0">color.#EEEE00</Permission>
         <Permission Cooldown="0">home</Permission>

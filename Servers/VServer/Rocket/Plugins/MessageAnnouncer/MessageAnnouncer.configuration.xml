@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<MessageAnnouncerConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<MessageAnnouncerConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Interval>30</Interval>
   <Messages>
     <Message Text="欢迎来到这个服务器" Color="#FFBBFF" />

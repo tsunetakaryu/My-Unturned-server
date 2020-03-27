@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Translation Id="command_generic_failed_find_player" Value="找不到玩家" />
   <Translation Id="command_generic_invalid_parameter" Value="无效参数" />
   <Translation Id="command_generic_target_player_not_found" Value="找不到目标玩家" />

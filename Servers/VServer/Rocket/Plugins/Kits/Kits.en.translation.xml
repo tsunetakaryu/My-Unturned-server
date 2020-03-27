@@ -5,7 +5,7 @@
   <Translation Id="command_kit_no_permissions" Value="您没有领取该礼包的权限" />
   <Translation Id="command_kit_cooldown_command" Value="你必须等待 {0} 后才能使用此命令" />
   <Translation Id="command_kit_cooldown_kit" Value="你必须等待 {0} 后才能领取该礼包" />
-  <Translation Id="command_kit_failed_giving_item" Value="无法将物品提供给{0}({1}，{2}) "/>
+  <Translation Id="command_kit_failed_giving_item" Value="无法将物品提供给{0}({1}，{2}) " />
   <Translation Id="command_kit_success" Value="你收到礼包 {0}" />
   <Translation Id="command_kits" Value="以下是礼包列表: {0}" />
   <Translation Id="command_kit_no_money" Value="你买不起礼包 {2}. 你需要至少 {0} {1}." />

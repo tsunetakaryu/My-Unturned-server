@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Translation Id="buy_command_usage" Value="用法：/buy [物品ID] [数量]." />
   <Translation Id="cost_command_usage" Value="用法：/cost [物品ID]." />
   <Translation Id="sell_command_usage" Value="用法：/sell [物品ID] [数量]." />

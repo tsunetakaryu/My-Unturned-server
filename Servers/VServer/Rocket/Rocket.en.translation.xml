@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Translation Id="rocket_join_public" Value="{0} 连接到服务器" />
   <Translation Id="rocket_leave_public" Value="{0} 与服务器断开连接" />
   <Translation Id="command_rwho_line" Value="#{0}, 连接 ID: {1}, 权限: {2}, 地址: {3}, 连接时间: {4}, 连接自: {5}." />

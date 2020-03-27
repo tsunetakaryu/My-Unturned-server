@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RocketSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <RCON Enabled="true" Port="51002" Password="0g188" />
+<RocketSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <RCON Enabled="true" Port="51002" Password="0g188" EnableMaxGlobalConnections="true" MaxGlobalConnections="10" EnableMaxLocalConnections="true" MaxLocalConnections="3" />
   <AutomaticShutdown Enabled="false" Interval="86400" />
   <WebConfigurations Enabled="false" Url="" />
   <WebPermissions Enabled="false" Url="" Interval="180" />

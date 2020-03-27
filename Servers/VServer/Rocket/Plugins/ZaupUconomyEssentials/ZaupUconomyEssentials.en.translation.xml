@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Translation Id="pay_time_msg" Value="你收到在线奖励 {0} {1} " />
   <Translation Id="unable_to_pay_group_msg" Value="无法支付 {0} 你没有 {1} 权限." />
   <Translation Id="to_killer_msg" Value="你杀死了 {2} 从他身上搜到 {0} {1} " />

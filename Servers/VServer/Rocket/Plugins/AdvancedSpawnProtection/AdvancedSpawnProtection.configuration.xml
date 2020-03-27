@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SpawnProtectionConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<SpawnProtectionConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <GiveVanishWhileProtected>true</GiveVanishWhileProtected>
   <CancelProtectionOnEquip>true</CancelProtectionOnEquip>
   <CancelProtectionIfInVehicleWithOthers>true</CancelProtectionIfInVehicleWithOthers>
+  <CancelOnBedRespawn>false</CancelOnBedRespawn>
   <GiveProtectionOnJoin>false</GiveProtectionOnJoin>
   <GiveProtectionOnRespawn>true</GiveProtectionOnRespawn>
   <AutoRepairProtectedPlayersVehicles>true</AutoRepairProtectedPlayersVehicles>
+  <SendProtectionMessages>false</SendProtectionMessages>
+  <ForceDequipWhileProtected>false</ForceDequipWhileProtected>
+  <EnableProtectionBasedOnDist>false</EnableProtectionBasedOnDist>
+  <DisableProtectionBasedOnDist>false</DisableProtectionBasedOnDist>
+  <EnsureGodmodeWhileProtected>false</EnsureGodmodeWhileProtected>
+  <ProtDisableDist>0</ProtDisableDist>
+  <ProtEnableDist>0</ProtEnableDist>
+  <SpawnPositionGetDelay>0</SpawnPositionGetDelay>
   <ProtectionTime>30</ProtectionTime>
   <MaxProtectionVanishTime>6</MaxProtectionVanishTime>
   <ProtectionVanishDelayMilliseconds>1000</ProtectionVanishDelayMilliseconds>
   <ProtectionMessageColor>Yellow</ProtectionMessageColor>
   <CommandMessageColor>Green</CommandMessageColor>
+  <WhitelistedItems />
+  <NoSpawnProtection />
 </SpawnProtectionConfig>

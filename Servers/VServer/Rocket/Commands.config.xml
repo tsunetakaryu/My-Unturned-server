@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RocketCommands xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<RocketCommands xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Commands>
     <Command Name="admin" Enabled="false" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/admin</Command>
     <Command Name="admins" Enabled="true" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/admins</Command>
@@ -96,7 +96,43 @@
     <Command Name="cost" Enabled="true" Priority="Normal">ZaupShop.CommandCost/cost</Command>
     <Command Name="sell" Enabled="true" Priority="Normal">ZaupShop.CommandSell/sell</Command>
     <Command Name="shop" Enabled="true" Priority="Normal">ZaupShop.CommandShop/shop</Command>
-    <Command Name="apay" Enabled="true" Priority="Normal">Uconomy_Essentials.CommandApay/apay</Command>
-    <Command Name="exchange" Enabled="true" Priority="Normal">Uconomy_Essentials.CommandExchange/exchange</Command>
+    <Command Name="apay" Enabled="false" Priority="Normal">Uconomy_Essentials.CommandApay/apay</Command>
+    <Command Name="exchange" Enabled="false" Priority="Normal">Uconomy_Essentials.CommandExchange/exchange</Command>
+    <Command Name="rflush" Enabled="true" Priority="Normal">Rocket.Core.Commands.CommandRFlush/rflush</Command>
+    <Command Name="rkick" Enabled="true" Priority="Normal">Rocket.Core.Commands.CommandRKick/rkick</Command>
+    <Command Name="rwho" Enabled="true" Priority="Normal">Rocket.Core.Commands.CommandRWho/rwho</Command>
+    <Command Name="allowp2prelay" Enabled="true" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/allowp2prelay</Command>
+    <Command Name="animal" Enabled="true" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/animal</Command>
+    <Command Name="effectui" Enabled="true" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/effectui</Command>
+    <Command Name="flag" Enabled="true" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/flag</Command>
+    <Command Name="gamemode" Enabled="true" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/gamemode</Command>
+    <Command Name="kill" Enabled="true" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/kill</Command>
+    <Command Name="modules" Enabled="true" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/modules</Command>
+    <Command Name="quest" Enabled="true" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/quest</Command>
+    <Command Name="reload" Enabled="true" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/reload</Command>
+    <Command Name="reputation" Enabled="true" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/reputation</Command>
+    <Command Name="weather" Enabled="true" Priority="Low">Rocket.Unturned.Commands.UnturnedCommands/weather</Command>
+    <Command Name="more" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandMore/more</Command>
+    <Command Name="toggleprotection" Enabled="true" Priority="Normal">RocketModSpawnProtection.CommandToggleProtection/toggleprotection</Command>
+    <Command Name="startprot" Enabled="true" Priority="Normal">RocketModSpawnProtection.SpawnProtection/startprot</Command>
+    <Command Name="pstart" Enabled="true" Priority="Normal">RocketModSpawnProtection.SpawnProtection/pstart</Command>
+    <Command Name="stopprot" Enabled="true" Priority="Normal">RocketModSpawnProtection.SpawnProtection/stopprot</Command>
+    <Command Name="pstop" Enabled="true" Priority="Normal">RocketModSpawnProtection.SpawnProtection/pstop</Command>
+    <Command Name="exp" Enabled="true" Priority="Normal">Freenex.FeexExp.CommandExp/exp</Command>
+    <Command Name="tps" Enabled="true" Priority="Normal">FPSCap.CommandTPS/tps</Command>
+    <Command Name="limittps" Enabled="true" Priority="Normal">FPSCap.CommandLimitTPS/limittps</Command>
+    <Command Name="ltps" Enabled="true" Priority="Normal">FPSCap.CommandLimitTPS/ltps</Command>
+    <Command Name="jail" Enabled="true" Priority="Normal">ApokPT.RocketPlugins.JailTimeCommand/jail</Command>
+    <Command Name="ufly" Enabled="true" Priority="Normal">uFly.CommandUFly/ufly</Command>
+    <Command Name="delwarp" Enabled="true" Priority="Normal">Warps.CommandDelWarp/delwarp</Command>
+    <Command Name="setwarp" Enabled="true" Priority="Normal">Warps.CommandSetWarp/setwarp</Command>
+    <Command Name="warp" Enabled="true" Priority="Normal">Warps.CommandWarp/warp</Command>
+    <Command Name="warps" Enabled="true" Priority="Normal">Warps.CommandWarps/warps</Command>
+    <Command Name="delwarpall" Enabled="true" Priority="Normal">Warps.CommandDelWarpAll/delwarpall</Command>
+    <Command Name="ci" Enabled="true" Priority="Normal">ZaupClearInventoryLib.CommandCi/ci</Command>
+    <Command Name="clearinventory" Enabled="true" Priority="Normal">ZaupClearInventoryLib.CommandCi/clearinventory</Command>
+    <Command Name="cleari" Enabled="true" Priority="Normal">ZaupClearInventoryLib.CommandCi/cleari</Command>
+    <Command Name="apay" Enabled="true" Priority="Normal">ZaupUconomyEssentials.CommandApay/apay</Command>
+    <Command Name="exchange" Enabled="true" Priority="Normal">ZaupUconomyEssentials.CommandExchange/exchange</Command>
   </Commands>
 </RocketCommands>
