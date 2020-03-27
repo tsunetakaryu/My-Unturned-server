@@ -1,0 +1,255 @@
+[2020/3/27 15:42:03] [Info] [registered] /rflush (Rocket.Core.Commands.CommandRFlush/rflush)
+[2020/3/27 15:42:03] [Info] [registered] /rkick (Rocket.Core.Commands.CommandRKick/rkick)
+[2020/3/27 15:42:03] [Info] [registered] /rwho (Rocket.Core.Commands.CommandRWho/rwho)
+[2020/3/27 15:42:03] [Info] [registered] /admins (Rocket.Unturned.Commands.UnturnedCommands/admins)
+[2020/3/27 15:42:03] [Info] [registered] /airdrop (Rocket.Unturned.Commands.UnturnedCommands/airdrop)
+[2020/3/27 15:42:03] [Info] [registered] /allowp2prelay (Rocket.Unturned.Commands.UnturnedCommands/allowp2prelay)
+[2020/3/27 15:42:03] [Info] [registered] /animal (Rocket.Unturned.Commands.UnturnedCommands/animal)
+[2020/3/27 15:42:03] [Info] [registered] /ban (Rocket.Unturned.Commands.UnturnedCommands/ban)
+[2020/3/27 15:42:03] [Info] [registered] /bans (Rocket.Unturned.Commands.UnturnedCommands/bans)
+[2020/3/27 15:42:03] [Info] [registered] /bind (Rocket.Unturned.Commands.UnturnedCommands/bind)
+[2020/3/27 15:42:03] [Info] [registered] /chatrate (Rocket.Unturned.Commands.UnturnedCommands/chatrate)
+[2020/3/27 15:42:03] [Info] [registered] /cheats (Rocket.Unturned.Commands.UnturnedCommands/cheats)
+[2020/3/27 15:42:03] [Info] [registered] /cycle (Rocket.Unturned.Commands.UnturnedCommands/cycle)
+[2020/3/27 15:42:03] [Info] [registered] /day (Rocket.Unturned.Commands.UnturnedCommands/day)
+[2020/3/27 15:42:03] [Info] [registered] /debug (Rocket.Unturned.Commands.UnturnedCommands/debug)
+[2020/3/27 15:42:03] [Info] [registered] /effectui (Rocket.Unturned.Commands.UnturnedCommands/effectui)
+[2020/3/27 15:42:03] [Info] [registered] /experience (Rocket.Unturned.Commands.UnturnedCommands/experience)
+[2020/3/27 15:42:03] [Info] [registered] /filter (Rocket.Unturned.Commands.UnturnedCommands/filter)
+[2020/3/27 15:42:03] [Info] [registered] /flag (Rocket.Unturned.Commands.UnturnedCommands/flag)
+[2020/3/27 15:42:03] [Info] [registered] /gamemode (Rocket.Unturned.Commands.UnturnedCommands/gamemode)
+[2020/3/27 15:42:03] [Info] [registered] /give (Rocket.Unturned.Commands.UnturnedCommands/give)
+[2020/3/27 15:42:03] [Info] [registered] /gold (Rocket.Unturned.Commands.UnturnedCommands/gold)
+[2020/3/27 15:42:03] [Info] [registered] /hide_admins (Rocket.Unturned.Commands.UnturnedCommands/hide_admins)
+[2020/3/27 15:42:03] [Info] [registered] /kick (Rocket.Unturned.Commands.UnturnedCommands/kick)
+[2020/3/27 15:42:03] [Info] [registered] /kill (Rocket.Unturned.Commands.UnturnedCommands/kill)
+[2020/3/27 15:42:03] [Info] [registered] /loadout (Rocket.Unturned.Commands.UnturnedCommands/loadout)
+[2020/3/27 15:42:03] [Info] [registered] /log (Rocket.Unturned.Commands.UnturnedCommands/log)
+[2020/3/27 15:42:03] [Info] [registered] /map (Rocket.Unturned.Commands.UnturnedCommands/map)
+[2020/3/27 15:42:03] [Info] [registered] /maxplayers (Rocket.Unturned.Commands.UnturnedCommands/maxplayers)
+[2020/3/27 15:42:03] [Info] [registered] /mode (Rocket.Unturned.Commands.UnturnedCommands/mode)
+[2020/3/27 15:42:03] [Info] [registered] /modules (Rocket.Unturned.Commands.UnturnedCommands/modules)
+[2020/3/27 15:42:03] [Info] [registered] /name (Rocket.Unturned.Commands.UnturnedCommands/name)
+[2020/3/27 15:42:03] [Info] [registered] /night (Rocket.Unturned.Commands.UnturnedCommands/night)
+[2020/3/27 15:42:03] [Info] [registered] /owner (Rocket.Unturned.Commands.UnturnedCommands/owner)
+[2020/3/27 15:42:03] [Info] [registered] /password (Rocket.Unturned.Commands.UnturnedCommands/password)
+[2020/3/27 15:42:03] [Info] [registered] /permit (Rocket.Unturned.Commands.UnturnedCommands/permit)
+[2020/3/27 15:42:03] [Info] [registered] /permits (Rocket.Unturned.Commands.UnturnedCommands/permits)
+[2020/3/27 15:42:03] [Info] [registered] /perspective (Rocket.Unturned.Commands.UnturnedCommands/perspective)
+[2020/3/27 15:42:03] [Info] [registered] /players (Rocket.Unturned.Commands.UnturnedCommands/players)
+[2020/3/27 15:42:03] [Info] [registered] /port (Rocket.Unturned.Commands.UnturnedCommands/port)
+[2020/3/27 15:42:03] [Info] [registered] /pve (Rocket.Unturned.Commands.UnturnedCommands/pve)
+[2020/3/27 15:42:03] [Info] [registered] /quest (Rocket.Unturned.Commands.UnturnedCommands/quest)
+[2020/3/27 15:42:03] [Info] [registered] /queue_size (Rocket.Unturned.Commands.UnturnedCommands/queue_size)
+[2020/3/27 15:42:03] [Info] [registered] /reload (Rocket.Unturned.Commands.UnturnedCommands/reload)
+[2020/3/27 15:42:03] [Info] [registered] /reputation (Rocket.Unturned.Commands.UnturnedCommands/reputation)
+[2020/3/27 15:42:03] [Info] [registered] /resetconfig (Rocket.Unturned.Commands.UnturnedCommands/resetconfig)
+[2020/3/27 15:42:03] [Info] [registered] /save (Rocket.Unturned.Commands.UnturnedCommands/save)
+[2020/3/27 15:42:03] [Info] [registered] /say (Rocket.Unturned.Commands.UnturnedCommands/say)
+[2020/3/27 15:42:03] [Info] [registered] /shutdown (Rocket.Unturned.Commands.UnturnedCommands/shutdown)
+[2020/3/27 15:42:03] [Info] [registered] /slay (Rocket.Unturned.Commands.UnturnedCommands/slay)
+[2020/3/27 15:42:03] [Info] [registered] /spy (Rocket.Unturned.Commands.UnturnedCommands/spy)
+[2020/3/27 15:42:03] [Info] [registered] /sync (Rocket.Unturned.Commands.UnturnedCommands/sync)
+[2020/3/27 15:42:03] [Info] [registered] /teleport (Rocket.Unturned.Commands.UnturnedCommands/teleport)
+[2020/3/27 15:42:03] [Info] [registered] /time (Rocket.Unturned.Commands.UnturnedCommands/time)
+[2020/3/27 15:42:03] [Info] [registered] /timeout (Rocket.Unturned.Commands.UnturnedCommands/timeout)
+[2020/3/27 15:42:03] [Info] [registered] /unban (Rocket.Unturned.Commands.UnturnedCommands/unban)
+[2020/3/27 15:42:03] [Info] [registered] /unpermit (Rocket.Unturned.Commands.UnturnedCommands/unpermit)
+[2020/3/27 15:42:03] [Info] [registered] /vehicle (Rocket.Unturned.Commands.UnturnedCommands/vehicle)
+[2020/3/27 15:42:03] [Info] [registered] /votify (Rocket.Unturned.Commands.UnturnedCommands/votify)
+[2020/3/27 15:42:03] [Info] [registered] /weather (Rocket.Unturned.Commands.UnturnedCommands/weather)
+[2020/3/27 15:42:03] [Info] [registered] /welcome (Rocket.Unturned.Commands.UnturnedCommands/welcome)
+[2020/3/27 15:42:03] [Info] [registered] /whitelisted (Rocket.Unturned.Commands.UnturnedCommands/whitelisted)
+[2020/3/27 15:42:03] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[2020/3/27 15:42:03] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[2020/3/27 15:42:03] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[2020/3/27 15:42:03] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[2020/3/27 15:42:03] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[2020/3/27 15:42:03] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[2020/3/27 15:42:03] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[2020/3/27 15:42:03] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[2020/3/27 15:42:03] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[2020/3/27 15:42:03] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[2020/3/27 15:42:03] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[2020/3/27 15:42:03] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[2020/3/27 15:42:03] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[2020/3/27 15:42:03] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[2020/3/27 15:42:03] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[2020/3/27 15:42:03] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[2020/3/27 15:42:03] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[2020/3/27 15:42:03] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[2020/3/27 15:42:03] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[2020/3/27 15:42:03] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[2020/3/27 15:42:03] [Info] Loading AdvancedSpawnProtection from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\AdvancedSpawnProtection.dll
+[2020/3/27 15:42:03] [Info] Loading FeexExp from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\FeexExp.dll
+[2020/3/27 15:42:03] [Info] Loading FPSCap from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\FPSCap.dll
+[2020/3/27 15:42:03] [Info] Loading JailTimeFree from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\JailTimeFree.dll
+[2020/3/27 15:42:03] [Info] Loading JoinLeaveMessages from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\JoinLeaveMessages.dll
+[2020/3/27 15:42:03] [Info] Loading Kits from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\Kits.dll
+[2020/3/27 15:42:03] [Info] Loading MessageAnnouncer from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\MessageAnnouncer.dll
+[2020/3/27 15:42:03] [Info] Loading RocketMod_TPA from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\RocketMod_TPA.dll
+[2020/3/27 15:42:03] [Info] Loading Uconomy from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\Uconomy.dll
+[2020/3/27 15:42:03] [Info] Loading uFly from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\uFly.dll
+[2020/3/27 15:42:03] [Info] Loading Warps from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\Warps.dll
+[2020/3/27 15:42:03] [Info] Loading ZaupClearInventoryLib from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\ZaupClearInventoryLib.dll
+[2020/3/27 15:42:03] [Info] Loading ZaupFeast from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\ZaupFeast.dll
+[2020/3/27 15:42:03] [Info] Loading ZaupHomeCommand from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\ZaupHomeCommand.dll
+[2020/3/27 15:42:03] [Info] Loading ZaupShop from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\ZaupShop.dll
+[2020/3/27 15:42:03] [Info] Loading ZaupUconomyEssentials from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\ZaupUconomyEssentials.dll
+[2020/3/27 15:42:08] [Info] 
+[loading] AdvancedSpawnProtection
+[2020/3/27 15:42:08] [Info] [registered] /toggleprotection (RocketModSpawnProtection.CommandToggleProtection/toggleprotection)
+[2020/3/27 15:42:08] [Info] [registered] /startprot (RocketModSpawnProtection.SpawnProtection/startprot)
+[2020/3/27 15:42:08] [Info] [registered] /pstart (RocketModSpawnProtection.SpawnProtection/pstart)
+[2020/3/27 15:42:08] [Info] [registered] /stopprot (RocketModSpawnProtection.SpawnProtection/stopprot)
+[2020/3/27 15:42:08] [Info] [registered] /pstop (RocketModSpawnProtection.SpawnProtection/pstop)
+[2020/3/27 15:42:08] [Info] AdvancedSpawnProtection >> SpawnProtection loaded!
+[2020/3/27 15:42:08] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: ProtectionComponent
+[2020/3/27 15:42:08] [Info] 
+[loading] FeexExp
+[2020/3/27 15:42:08] [Info] [registered] /exp (Freenex.FeexExp.CommandExp/exp)
+[2020/3/27 15:42:08] [Info] FeexExp >> Freenex's FeexExp has been loaded!
+[2020/3/27 15:42:08] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: FeexExpPlayerComponent
+[2020/3/27 15:42:08] [Info] 
+[loading] FPSCap
+[2020/3/27 15:42:08] [Info] [registered] /tps (FPSCap.CommandTPS/tps)
+[2020/3/27 15:42:08] [Info] [registered] /limittps (FPSCap.CommandLimitTPS/limittps)
+[2020/3/27 15:42:08] [Info] [registered] /ltps (FPSCap.CommandLimitTPS/ltps)
+[2020/3/27 15:42:08] [Info] FPSCap >> 服务器TPS已设置为：60 TPS.
+[2020/3/27 15:42:08] [Info] 
+[loading] JailTimeFree
+[2020/3/27 15:42:08] [Info] [registered] /jail (ApokPT.RocketPlugins.JailTimeCommand/jail)
+[2020/3/27 15:42:08] [Warning] JokTime: 由ApokPT提供。 由Lossy修正。 并由noammiz007更新.
+[2020/3/27 15:42:08] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: JailTimePlayer
+[2020/3/27 15:42:08] [Info] 
+[loading] JoinLeaveMessages
+[2020/3/27 15:42:08] [Info] 
+[loading] Kits
+[2020/3/27 15:42:08] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[2020/3/27 15:42:08] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[2020/3/27 15:42:08] [Info] Kits >> Optional dependency Uconomy is not present.
+[2020/3/27 15:42:08] [Info] 
+[loading] MessageAnnouncer
+[2020/3/27 15:42:08] [Info] MessageAnnouncer >> Load
+[2020/3/27 15:42:08] [Info] [registered] /rules (fr34kyn01535.MessageAnnouncer.RocketTextCommand/rules)
+[2020/3/27 15:42:08] [Info] 
+[loading] RocketMod_TPA
+[2020/3/27 15:42:08] [Info] [registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+[2020/3/27 15:42:08] [Warning] TPA by LeeIzaZombie, Version 1.7.0.2
+[2020/3/27 15:42:08] [Warning] ...
+[2020/3/27 15:42:08] [Warning] Current configuration:
+[2020/3/27 15:42:08] [Warning] ...
+[2020/3/27 15:42:08] [Warning] Cooldown TPA requests: disabled, Seconds: 20
+[2020/3/27 15:42:08] [Warning] Delay teleporting: disabled, Seconds: 10
+[2020/3/27 15:42:08] [Warning] Cancel teleport if bleeding: disabled
+[2020/3/27 15:42:08] [Warning] NinjaTP: disabled, EffectID: 45
+[2020/3/27 15:42:08] [Warning] [Delay] Cancel teleport if hurt: disabled
+[2020/3/27 15:42:08] [Warning] ...
+[2020/3/27 15:42:08] [Warning] Checking for problems:
+[2020/3/27 15:42:08] [Warning] No errors have been found!
+[2020/3/27 15:42:08] [Warning] ...
+[2020/3/27 15:42:08] [Warning] Always welcome to suggestions! If you find a bug, please report it!
+[2020/3/27 15:42:08] [Info] 
+[loading] Uconomy
+[2020/3/27 15:42:08] [Info] [registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[2020/3/27 15:42:08] [Info] [registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+[2020/3/27 15:42:08] [Info] 
+[loading] uFly
+[2020/3/27 15:42:08] [Info] [registered] /ufly (uFly.CommandUFly/ufly)
+[2020/3/27 15:42:08] [Info] 
+[loading] Warps
+[2020/3/27 15:42:08] [Info] [registered] /delwarp (Warps.CommandDelWarp/delwarp)
+[2020/3/27 15:42:08] [Info] [registered] /setwarp (Warps.CommandSetWarp/setwarp)
+[2020/3/27 15:42:08] [Info] [registered] /warp (Warps.CommandWarp/warp)
+[2020/3/27 15:42:08] [Info] [registered] /warps (Warps.CommandWarps/warps)
+[2020/3/27 15:42:08] [Info] [registered] /delwarpall (Warps.CommandDelWarpAll/delwarpall)
+[2020/3/27 15:42:08] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: WarpsPlayerComponent
+[2020/3/27 15:42:08] [Info] 
+[loading] ZaupClearInventoryLib
+[2020/3/27 15:42:08] [Info] [registered] /ci (ZaupClearInventoryLib.CommandCi/ci)
+[2020/3/27 15:42:08] [Info] [registered] /clearinventory (ZaupClearInventoryLib.CommandCi/clearinventory)
+[2020/3/27 15:42:08] [Info] [registered] /cleari (ZaupClearInventoryLib.CommandCi/cleari)
+[2020/3/27 15:42:08] [Info] 
+[loading] ZaupFeast
+[2020/3/27 15:42:08] [Info] [registered] /runfeast (ZaupFeast.CommandRunFeast/runfeast)
+[2020/3/27 15:42:08] [Info] [registered] /frun (ZaupFeast.CommandRunFeast/frun)
+[2020/3/27 15:42:08] [Info] 
+[loading] ZaupHomeCommand
+[2020/3/27 15:42:08] [Info] [registered] /home (ZaupHomeCommand.CommandHome/home)
+[2020/3/27 15:42:08] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: HomePlayer
+[2020/3/27 15:42:08] [Info] 
+[loading] ZaupShop
+[2020/3/27 15:42:08] [Info] [registered] /buy (ZaupShop.CommandBuy/buy)
+[2020/3/27 15:42:08] [Info] [registered] /cost (ZaupShop.CommandCost/cost)
+[2020/3/27 15:42:08] [Info] [registered] /sell (ZaupShop.CommandSell/sell)
+[2020/3/27 15:42:08] [Info] [registered] /shop (ZaupShop.CommandShop/shop)
+[2020/3/27 15:42:08] [Info] 
+[loading] ZaupUconomyEssentials
+[2020/3/27 15:42:08] [Info] Other mapping to: Uconomy_Essentials.CommandApay/apay / ZaupUconomyEssentials.CommandApay/apay
+[2020/3/27 15:42:08] [Info] [registered] /apay (ZaupUconomyEssentials.CommandApay/apay)
+[2020/3/27 15:42:08] [Info] Other mapping to: Uconomy_Essentials.CommandExchange/exchange / ZaupUconomyEssentials.CommandExchange/exchange
+[2020/3/27 15:42:08] [Info] [registered] /exchange (ZaupUconomyEssentials.CommandExchange/exchange)
+[2020/3/27 15:42:08] [Info] UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: PlayerUe
+[2020/3/27 15:42:08] [Info] This server will automatically save every 300 seconds
+[2020/3/27 15:42:08] [Info] Broadcast: 欢迎来到这个服务器
+[2020/3/27 15:42:08] [Info] MessageAnnouncer >> 欢迎来到这个服务器
+[2020/3/27 15:42:08] [Info] Steam servers ready!
+[2020/3/27 15:42:08] [Info] Workshop install folder: d:\clients\Users\16835/Servers/VServer/Workshop/Steam
+[2020/3/27 15:42:08] [Info] 0 workshop item(s) requested
+[2020/3/27 15:42:08] [Info] Recommended to add workshop item 1804433423 to WorkshopDownloadConfig.json and remove it from /Servers/VServer/Workshop/Content
+[2020/3/27 15:42:08] [Info] Recommended to add workshop item 1830152355 to WorkshopDownloadConfig.json and remove it from /Servers/VServer/Workshop/Content
+[2020/3/27 15:42:08] [Info] Recommended to add workshop item 1906910169 to WorkshopDownloadConfig.json and remove it from /Servers/VServer/Workshop/Content
+[2020/3/27 15:42:08] [Info] ZaupFeast >> The next feast will be at Yekativurg at 2020/3/27 15:54:42
+[2020/3/27 15:42:15] [Info] Loading level: 8%
+[2020/3/27 15:42:15] [Info] Loading level: 16%
+[2020/3/27 15:42:16] [Info] Loading level: 25%
+[2020/3/27 15:42:16] [Info] Loading level: 33%
+[2020/3/27 15:42:16] [Info] Loading level: 41%
+[2020/3/27 15:42:16] [Info] Loading level: 50%
+[2020/3/27 15:42:16] [Info] Loading level: 58%
+[2020/3/27 15:42:16] [Info] Loading level: 66%
+[2020/3/27 15:42:16] [Info] Loading level: 75%
+[2020/3/27 15:42:16] [Info] Loading level: 83%
+[2020/3/27 15:42:17] [Info] Loading level: 91%
+[2020/3/27 15:42:17] [Info] Loading level: 100%
+[2020/3/27 15:42:22] [Error] Failed to generate an item with ID 20169 from type Police_Low [0]
+[2020/3/27 15:42:22] [Error] Failed to generate an item with ID 20181 from type Military_Low [2]
+[2020/3/27 15:42:34] [Info] Broadcast: 将服务器添加收藏，方便下次进入
+[2020/3/27 15:42:34] [Info] MessageAnnouncer >> 将服务器添加收藏，方便下次进入
+[2020/3/27 15:43:04] [Info] Broadcast: 服务器群号：838699506
+[2020/3/27 15:43:04] [Info] MessageAnnouncer >> 服务器群号：838699506
+[2020/3/27 15:43:34] [Info] Broadcast: 若发现使用外挂/卡BUG玩家 请联系群管理员
+[2020/3/27 15:43:34] [Info] MessageAnnouncer >> 若发现使用外挂/卡BUG玩家 请联系群管理员
+[2020/3/27 15:43:45] [Info] ZaupHomeCommand >> Homeplayer is awake
+[2020/3/27 15:44:04] [Info] Connecting: PlayerID: 76561198181125833 Name: Ryusa Character: RYUSA
+[2020/3/27 15:44:04] [Info] Broadcast: RYUSA已从China连接.
+[2020/3/27 15:44:04] [Info] Broadcast: 输入/TPA XX 传送 /tpa accept 接受传送
+[2020/3/27 15:44:04] [Info] MessageAnnouncer >> 输入/TPA XX 传送 /tpa accept 接受传送
+[2020/3/27 15:44:08] [Info] [World] RYUSA [Ryusa]: "/give 20240"
+[2020/3/27 15:44:22] [Info] Successfully gave Ryusa 20240 x1!
+[2020/3/27 15:44:22] [Info] [World] RYUSA [Ryusa]: "/tp wp"
+[2020/3/27 15:44:29] [Info] [World] RYUSA [Ryusa]: "/tp waypoint"
+[2020/3/27 15:44:34] [Info] Broadcast: 服务器禁止抄家 发现拆别人家的玩家 永久踢出服务器
+[2020/3/27 15:44:34] [Info] MessageAnnouncer >> 服务器禁止抄家 发现拆别人家的玩家 永久踢出服务器
+[2020/3/27 15:44:36] [Info] [World] RYUSA [Ryusa]: "/tp"
+[2020/3/27 15:44:42] [Info] [World] RYUSA [Ryusa]: "/tp waypoint"
+[2020/3/27 15:44:53] [Info] [World] RYUSA [Ryusa]: "/tp moscow"
+[2020/3/27 15:45:04] [Info] RYUSA 传送到 Moscow
+[2020/3/27 15:45:04] [Info] Broadcast: 欢迎来到这个服务器
+[2020/3/27 15:45:04] [Info] MessageAnnouncer >> 欢迎来到这个服务器
+[2020/3/27 15:45:34] [Info] Broadcast: 将服务器添加收藏，方便下次进入
+[2020/3/27 15:45:34] [Info] MessageAnnouncer >> 将服务器添加收藏，方便下次进入
+[2020/3/27 15:45:52] [Info] [World] RYUSA [Ryusa]: "/give 64704"
+[2020/3/27 15:45:55] [Info] Successfully gave Ryusa 64704 x1!
+[2020/3/27 15:45:55] [Info] [World] RYUSA [Ryusa]: "/give 64705"
+[2020/3/27 15:46:04] [Info] Successfully gave Ryusa 64705 x1!
+[2020/3/27 15:46:04] [Info] Broadcast: 服务器群号：838699506
+[2020/3/27 15:46:04] [Info] MessageAnnouncer >> 服务器群号：838699506
+[2020/3/27 15:46:13] [Info] Player finished session: 76561198181125833
+[2020/3/27 15:46:34] [Info] Broadcast: RYUSA 与服务器断开连接.
+[2020/3/27 15:46:34] [Info] Disconnecting: PlayerID: 76561198181125833 Name: Ryusa Character: RYUSA
+[2020/3/27 15:46:34] [Info] Broadcast: 若发现使用外挂/卡BUG玩家 请联系群管理员
+[2020/3/27 15:46:34] [Info] MessageAnnouncer >> 若发现使用外挂/卡BUG玩家 请联系群管理员
+[2020/3/27 15:47:04] [Info] Saving server
+[2020/3/27 15:47:04] [Info] Broadcast: 输入/TPA XX 传送 /tpa accept 接受传送
+[2020/3/27 15:47:04] [Info] MessageAnnouncer >> 输入/TPA XX 传送 /tpa accept 接受传送

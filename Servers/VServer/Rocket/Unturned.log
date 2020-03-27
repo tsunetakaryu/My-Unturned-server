@@ -1,0 +1,849 @@
+Initialize engine version: 2018.4.14f1 (05119b33d0b7)
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+FMOD initialized on nosound output
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.149 seconds
+WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - Setting to default shader.
+UnloadTime: 1.153182 ms
+3.20.3.1
+Successfully set port to 51000!
+Successfully set max players to 15!
+Successfully set name to 偏振光-俄罗斯!
+Successfully set port to 51000!
+Successfully set max players to 15!
+Failed to make timeout greater than 60.
+Successfully set gamemode to easy!
+Successfully set owner to 76561198181125833!
+Successfully disabled password!
+Successfully set map to Russia!
+Successfully enabled PvE.
+Successfully set perspective to both!
+Successfully set timeout to 400!
+Successfully set welcome message to Level normal, got some mods, have fun. !
+Successfully set loadout 255!
+Successfully set cycle to 1200!
+Successfully enabled cheats.
+Rocket Unturned v4.9.3.0 for Unturned v3.20.3.1
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 2124.
+Total: 4.286624 ms (FindLiveObjects: 0.333982 ms CreateObjectMapping: 0.055138 ms MarkObjects: 3.880175 ms  DeleteObjects: 0.016542 ms)
+
+Mounting core: 0%
+Mounting core: 1%
+Mounting core: 2%
+Mounting core: 3%
+Mounting core: 4%
+Mounting core: 5%
+Mounting core: 6%
+Mounting core: 7%
+Mounting core: 8%
+Mounting core: 9%
+Mounting core: 10%
+Mounting core: 11%
+Mounting core: 12%
+Mounting core: 13%
+Mounting core: 14%
+Mounting core: 15%
+Mounting core: 16%
+Mounting core: 17%
+Mounting core: 18%
+Mounting core: 19%
+Mounting core: 20%
+Mounting core: 21%
+Mounting core: 22%
+Mounting core: 23%
+Mounting core: 24%
+Mounting core: 25%
+Mounting core: 26%
+Mounting core: 27%
+Mounting core: 28%
+Mounting core: 29%
+Mounting core: 30%
+Mounting core: 31%
+Mounting core: 32%
+Mounting core: 33%
+Mounting core: 34%
+Mounting core: 35%
+Mounting core: 36%
+Mounting core: 37%
+Mounting core: 38%
+Mounting core: 39%
+Mounting core: 40%
+Mounting core: 41%
+Mounting core: 42%
+Mounting core: 43%
+Mounting core: 44%
+Mounting core: 45%
+Mounting core: 46%
+Mounting core: 47%
+Mounting core: 48%
+Mounting core: 49%
+Mounting core: 50%
+Mounting core: 51%
+Mounting core: 52%
+Mounting core: 53%
+Mounting core: 54%
+Mounting core: 55%
+Mounting core: 56%
+Mounting core: 57%
+Mounting core: 58%
+Mounting core: 60%
+Mounting core: 61%
+Mounting core: 62%
+Mounting core: 63%
+Mounting core: 64%
+Mounting core: 65%
+Mounting core: 66%
+Mounting core: 67%
+Mounting core: 68%
+Mounting core: 69%
+Mounting core: 70%
+Mounting core: 71%
+Mounting core: 72%
+Mounting core: 73%
+Mounting core: 74%
+Mounting core: 75%
+Mounting core: 76%
+Mounting core: 77%
+Mounting core: 78%
+Mounting core: 79%
+Mounting core: 80%
+Mounting core: 81%
+Mounting core: 82%
+Mounting core: 83%
+Mounting core: 84%
+Mounting core: 85%
+Mounting core: 86%
+Mounting core: 87%
+Mounting core: 88%
+Mounting core: 89%
+Mounting core: 90%
+Found general assets: 138
+Preloading general assets: 13/138
+Preloading general assets: 38/138
+Preloading general assets: 63/138
+Preloading general assets: 88/138
+Preloading general assets: 113/138
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
+Preloading general assets: 138/138
+Found item assets: 1533
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2116.
+Total: 7.343266 ms (FindLiveObjects: 0.291052 ms CreateObjectMapping: 0.059077 ms MarkObjects: 6.982109 ms  DeleteObjects: 0.010240 ms)
+
+Preloading item assets: 8/1533
+Preloading item assets: 33/1533
+Preloading item assets: 58/1533
+Preloading item assets: 83/1533
+Preloading item assets: 108/1533
+Preloading item assets: 133/1533
+Preloading item assets: 158/1533
+Preloading item assets: 183/1533
+Preloading item assets: 208/1533
+Preloading item assets: 233/1533
+Preloading item assets: 258/1533
+Preloading item assets: 283/1533
+Preloading item assets: 308/1533
+Preloading item assets: 333/1533
+Preloading item assets: 358/1533
+Preloading item assets: 383/1533
+Preloading item assets: 408/1533
+Preloading item assets: 433/1533
+Preloading item assets: 458/1533
+Preloading item assets: 483/1533
+Preloading item assets: 508/1533
+Preloading item assets: 533/1533
+Preloading item assets: 558/1533
+Preloading item assets: 583/1533
+Preloading item assets: 608/1533
+Preloading item assets: 633/1533
+Preloading item assets: 658/1533
+Preloading item assets: 683/1533
+Preloading item assets: 708/1533
+Preloading item assets: 733/1533
+Preloading item assets: 758/1533
+Preloading item assets: 783/1533
+Preloading item assets: 808/1533
+Preloading item assets: 833/1533
+Preloading item assets: 858/1533
+Preloading item assets: 883/1533
+Preloading item assets: 908/1533
+Preloading item assets: 933/1533
+Preloading item assets: 958/1533
+Preloading item assets: 983/1533
+Preloading item assets: 1008/1533
+Preloading item assets: 1033/1533
+Preloading item assets: 1058/1533
+Preloading item assets: 1083/1533
+Preloading item assets: 1108/1533
+Preloading item assets: 1133/1533
+Preloading item assets: 1158/1533
+Preloading item assets: 1183/1533
+Preloading item assets: 1208/1533
+Preloading item assets: 1233/1533
+Preloading item assets: 1258/1533
+Preloading item assets: 1283/1533
+Preloading item assets: 1308/1533
+Preloading item assets: 1333/1533
+Preloading item assets: 1358/1533
+Preloading item assets: 1383/1533
+Preloading item assets: 1408/1533
+Preloading item assets: 1433/1533
+Preloading item assets: 1458/1533
+Preloading item assets: 1483/1533
+Preloading item assets: 1508/1533
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
+Preloading item assets: 1533/1533
+Found effect assets: 149
+
+Unloading 2517 unused Assets to reduce memory usage. Loaded Objects now: 10230.
+Total: 20.313415 ms (FindLiveObjects: 0.785330 ms CreateObjectMapping: 0.458831 ms MarkObjects: 15.990951 ms  DeleteObjects: 3.077122 ms)
+
+Preloading effect assets: 24/149
+Preloading effect assets: 49/149
+Preloading effect assets: 74/149
+Preloading effect assets: 99/149
+Preloading effect assets: 124/149
+Unloading 2 Unused Serialized files (Serialized files now loaded: 2)
+Preloading effect assets: 149/149
+Found object assets: 1057
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 11730.
+Total: 19.372910 ms (FindLiveObjects: 0.939324 ms CreateObjectMapping: 0.671114 ms MarkObjects: 17.701426 ms  DeleteObjects: 0.060652 ms)
+
+Preloading object assets: 7/1057
+Preloading object assets: 32/1057
+Preloading object assets: 57/1057
+Preloading object assets: 82/1057
+Preloading object assets: 107/1057
+Preloading object assets: 132/1057
+Preloading object assets: 157/1057
+Preloading object assets: 182/1057
+Preloading object assets: 207/1057
+Preloading object assets: 232/1057
+Preloading object assets: 257/1057
+Preloading object assets: 282/1057
+Preloading object assets: 307/1057
+Preloading object assets: 332/1057
+Preloading object assets: 357/1057
+Preloading object assets: 382/1057
+Preloading object assets: 407/1057
+Preloading object assets: 432/1057
+Preloading object assets: 457/1057
+Preloading object assets: 482/1057
+Preloading object assets: 507/1057
+Preloading object assets: 532/1057
+Preloading object assets: 557/1057
+Preloading object assets: 582/1057
+Preloading object assets: 607/1057
+Preloading object assets: 632/1057
+Preloading object assets: 657/1057
+Preloading object assets: 682/1057
+Preloading object assets: 707/1057
+Preloading object assets: 732/1057
+Preloading object assets: 757/1057
+Preloading object assets: 782/1057
+Preloading object assets: 807/1057
+Preloading object assets: 832/1057
+Preloading object assets: 857/1057
+Preloading object assets: 882/1057
+Preloading object assets: 907/1057
+Preloading object assets: 932/1057
+Preloading object assets: 957/1057
+Preloading object assets: 982/1057
+Preloading object assets: 1007/1057
+Preloading object assets: 1032/1057
+Preloading object assets: 1057/1057
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
+Found resource assets: 45
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 11762.
+Total: 24.821381 ms (FindLiveObjects: 0.795964 ms CreateObjectMapping: 0.647090 ms MarkObjects: 23.241269 ms  DeleteObjects: 0.136665 ms)
+
+Preloading resource assets: 20/45
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+Preloading resource assets: 45/45
+Found vehicle assets: 189
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 11996.
+Total: 29.011906 ms (FindLiveObjects: 0.898757 ms CreateObjectMapping: 0.597071 ms MarkObjects: 27.469604 ms  DeleteObjects: 0.045292 ms)
+
+Preloading vehicle assets: 14/189
+Preloading vehicle assets: 39/189
+Preloading vehicle assets: 64/189
+Preloading vehicle assets: 89/189
+Preloading vehicle assets: 114/189
+Preloading vehicle assets: 139/189
+Preloading vehicle assets: 164/189
+Preloading vehicle assets: 189/189
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+Found animal assets: 7
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 12328.
+Total: 21.920702 ms (FindLiveObjects: 0.992099 ms CreateObjectMapping: 0.584862 ms MarkObjects: 20.301206 ms  DeleteObjects: 0.041748 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
+Preloading animal assets: 7/7
+Found mythic assets: 32
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 13152.
+Total: 25.420027 ms (FindLiveObjects: 0.870007 ms CreateObjectMapping: 0.614794 ms MarkObjects: 23.895448 ms  DeleteObjects: 0.038991 ms)
+
+Preloading mythic assets: 7/32
+Preloading mythic assets: 32/32
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+Found skin assets: 409
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 13152.
+Total: 28.952436 ms (FindLiveObjects: 1.385945 ms CreateObjectMapping: 0.661268 ms MarkObjects: 26.873320 ms  DeleteObjects: 0.031114 ms)
+
+Preloading skin assets: 9/409
+Preloading skin assets: 34/409
+Preloading skin assets: 59/409
+Preloading skin assets: 84/409
+Preloading skin assets: 109/409
+Preloading skin assets: 134/409
+Preloading skin assets: 159/409
+Preloading skin assets: 184/409
+Preloading skin assets: 209/409
+Preloading skin assets: 234/409
+Preloading skin assets: 259/409
+Preloading skin assets: 284/409
+Preloading skin assets: 309/409
+Preloading skin assets: 334/409
+Preloading skin assets: 359/409
+Preloading skin assets: 384/409
+Preloading skin assets: 409/409
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+Found spawn table assets: 811
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 13152.
+Total: 24.887941 ms (FindLiveObjects: 1.443841 ms CreateObjectMapping: 1.480075 ms MarkObjects: 21.927791 ms  DeleteObjects: 0.035446 ms)
+
+Preloading spawn table assets: 11/811
+Preloading spawn table assets: 36/811
+Preloading spawn table assets: 61/811
+Preloading spawn table assets: 86/811
+Preloading spawn table assets: 111/811
+Preloading spawn table assets: 136/811
+Preloading spawn table assets: 161/811
+Preloading spawn table assets: 186/811
+Preloading spawn table assets: 211/811
+Preloading spawn table assets: 236/811
+Preloading spawn table assets: 261/811
+Preloading spawn table assets: 286/811
+Preloading spawn table assets: 311/811
+Preloading spawn table assets: 336/811
+Preloading spawn table assets: 361/811
+Preloading spawn table assets: 386/811
+Preloading spawn table assets: 411/811
+Preloading spawn table assets: 436/811
+Preloading spawn table assets: 461/811
+Preloading spawn table assets: 486/811
+Preloading spawn table assets: 511/811
+Preloading spawn table assets: 536/811
+Preloading spawn table assets: 561/811
+Preloading spawn table assets: 586/811
+Preloading spawn table assets: 611/811
+Preloading spawn table assets: 636/811
+Preloading spawn table assets: 661/811
+Preloading spawn table assets: 686/811
+Preloading spawn table assets: 711/811
+Preloading spawn table assets: 736/811
+Preloading spawn table assets: 761/811
+Preloading spawn table assets: 786/811
+Preloading spawn table assets: 811/811
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+Found NPC assets: 200
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 13152.
+Total: 26.591720 ms (FindLiveObjects: 0.903484 ms CreateObjectMapping: 0.567533 ms MarkObjects: 25.091953 ms  DeleteObjects: 0.027963 ms)
+
+Preloading NPC assets: 25/200
+Preloading NPC assets: 50/200
+Preloading NPC assets: 75/200
+Preloading NPC assets: 100/200
+Preloading NPC assets: 125/200
+Preloading NPC assets: 150/200
+Preloading NPC assets: 175/200
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
+Preloading NPC assets: 200/200
+Found shared workshop assets: 0
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 13154.
+Total: 30.845261 ms (FindLiveObjects: 1.174450 ms CreateObjectMapping: 0.611643 ms MarkObjects: 29.024509 ms  DeleteObjects: 0.034265 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+Found server workshop assets: 202
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 13154.
+Total: 29.948867 ms (FindLiveObjects: 1.172875 ms CreateObjectMapping: 0.802659 ms MarkObjects: 27.940250 ms  DeleteObjects: 0.032689 ms)
+
+Mounting freighterpack: 0%
+Preloading server workshop assets: 2/202
+Preloading server workshop assets: 27/202
+Preloading server workshop assets: 52/202
+Preloading server workshop assets: 77/202
+Preloading server workshop assets: 102/202
+Preloading server workshop assets: 127/202
+Preloading server workshop assets: 152/202
+Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x004d4] in <c5d690bc986f4104b6194f3dbebbf022>:0 
+ID < 2000
+  at SDG.Unturned.ItemAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00042] in <c5d690bc986f4104b6194f3dbebbf022>:0 
+  at SDG.Unturned.ItemCaliberAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00000] in <c5d690bc986f4104b6194f3dbebbf022>:0 
+  at SDG.Unturned.ItemGripAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00000] in <c5d690bc986f4104b6194f3dbebbf022>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+Preloading server workshop assets: 177/202
+Preloading server workshop assets: 202/202
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+Found server assets: 0
+
+Unloading 171 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 35.441449 ms (FindLiveObjects: 1.511582 ms CreateObjectMapping: 1.403275 ms MarkObjects: 31.867687 ms  DeleteObjects: 0.657330 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 33.177620 ms (FindLiveObjects: 1.184296 ms CreateObjectMapping: 1.235496 ms MarkObjects: 30.703870 ms  DeleteObjects: 0.053563 ms)
+
+Found Alpha Valley assets: 0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Found Destruction assets: 0
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 32.275318 ms (FindLiveObjects: 0.988554 ms CreateObjectMapping: 0.788087 ms MarkObjects: 30.458504 ms  DeleteObjects: 0.039778 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Found Germany assets: 0
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 31.975994 ms (FindLiveObjects: 1.617921 ms CreateObjectMapping: 0.832197 ms MarkObjects: 29.465617 ms  DeleteObjects: 0.059077 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Found Monolith assets: 0
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 32.116204 ms (FindLiveObjects: 1.206745 ms CreateObjectMapping: 0.829047 ms MarkObjects: 30.022122 ms  DeleteObjects: 0.057895 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Found Paintball Arena assets: 0
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 30.477409 ms (FindLiveObjects: 1.132308 ms CreateObjectMapping: 0.695139 ms MarkObjects: 28.601125 ms  DeleteObjects: 0.048443 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Found PEI assets: 0
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 33.111453 ms (FindLiveObjects: 1.155545 ms CreateObjectMapping: 0.993674 ms MarkObjects: 30.894886 ms  DeleteObjects: 0.066954 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Found PEI Arena assets: 0
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 32.530136 ms (FindLiveObjects: 1.009822 ms CreateObjectMapping: 0.744370 ms MarkObjects: 30.717261 ms  DeleteObjects: 0.058289 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Found Russia assets: 0
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 37.470545 ms (FindLiveObjects: 1.409182 ms CreateObjectMapping: 0.857797 ms MarkObjects: 35.144882 ms  DeleteObjects: 0.057895 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Found Washington assets: 0
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 31.387194 ms (FindLiveObjects: 0.996431 ms CreateObjectMapping: 0.979496 ms MarkObjects: 29.369913 ms  DeleteObjects: 0.040566 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Found Washington Arena assets: 0
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 31.851145 ms (FindLiveObjects: 1.665970 ms CreateObjectMapping: 0.732554 ms MarkObjects: 29.410085 ms  DeleteObjects: 0.042142 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Found Yukon assets: 0
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 30.799575 ms (FindLiveObjects: 1.523004 ms CreateObjectMapping: 0.841256 ms MarkObjects: 28.380964 ms  DeleteObjects: 0.053563 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Cleaning up...
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 33.970432 ms (FindLiveObjects: 1.784124 ms CreateObjectMapping: 2.188998 ms MarkObjects: 29.939021 ms  DeleteObjects: 0.057895 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+Linking blueprints...
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17123.
+Total: 29.276965 ms (FindLiveObjects: 1.259127 ms CreateObjectMapping: 0.710499 ms MarkObjects: 27.251807 ms  DeleteObjects: 0.053957 ms)
+
+Linking spawns...
+Loading miscellaneous...
+Please consider upgrading to the standalone dedicated server app ID 1110390!
+It can be updated anonymously through SteamCMD and strips client-only files.
+Waiting for Steam servers...
+[registered] /rflush (Rocket.Core.Commands.CommandRFlush/rflush)
+[registered] /rkick (Rocket.Core.Commands.CommandRKick/rkick)
+[registered] /rwho (Rocket.Core.Commands.CommandRWho/rwho)
+[registered] /admins (Rocket.Unturned.Commands.UnturnedCommands/admins)
+[registered] /airdrop (Rocket.Unturned.Commands.UnturnedCommands/airdrop)
+[registered] /allowp2prelay (Rocket.Unturned.Commands.UnturnedCommands/allowp2prelay)
+[registered] /animal (Rocket.Unturned.Commands.UnturnedCommands/animal)
+[registered] /ban (Rocket.Unturned.Commands.UnturnedCommands/ban)
+[registered] /bans (Rocket.Unturned.Commands.UnturnedCommands/bans)
+[registered] /bind (Rocket.Unturned.Commands.UnturnedCommands/bind)
+[registered] /chatrate (Rocket.Unturned.Commands.UnturnedCommands/chatrate)
+[registered] /cheats (Rocket.Unturned.Commands.UnturnedCommands/cheats)
+[registered] /cycle (Rocket.Unturned.Commands.UnturnedCommands/cycle)
+[registered] /day (Rocket.Unturned.Commands.UnturnedCommands/day)
+[registered] /debug (Rocket.Unturned.Commands.UnturnedCommands/debug)
+[registered] /effectui (Rocket.Unturned.Commands.UnturnedCommands/effectui)
+[registered] /experience (Rocket.Unturned.Commands.UnturnedCommands/experience)
+[registered] /filter (Rocket.Unturned.Commands.UnturnedCommands/filter)
+[registered] /flag (Rocket.Unturned.Commands.UnturnedCommands/flag)
+[registered] /gamemode (Rocket.Unturned.Commands.UnturnedCommands/gamemode)
+[registered] /give (Rocket.Unturned.Commands.UnturnedCommands/give)
+[registered] /gold (Rocket.Unturned.Commands.UnturnedCommands/gold)
+[registered] /hide_admins (Rocket.Unturned.Commands.UnturnedCommands/hide_admins)
+[registered] /kick (Rocket.Unturned.Commands.UnturnedCommands/kick)
+[registered] /kill (Rocket.Unturned.Commands.UnturnedCommands/kill)
+[registered] /loadout (Rocket.Unturned.Commands.UnturnedCommands/loadout)
+[registered] /log (Rocket.Unturned.Commands.UnturnedCommands/log)
+[registered] /map (Rocket.Unturned.Commands.UnturnedCommands/map)
+[registered] /maxplayers (Rocket.Unturned.Commands.UnturnedCommands/maxplayers)
+[registered] /mode (Rocket.Unturned.Commands.UnturnedCommands/mode)
+[registered] /modules (Rocket.Unturned.Commands.UnturnedCommands/modules)
+[registered] /name (Rocket.Unturned.Commands.UnturnedCommands/name)
+[registered] /night (Rocket.Unturned.Commands.UnturnedCommands/night)
+[registered] /owner (Rocket.Unturned.Commands.UnturnedCommands/owner)
+[registered] /password (Rocket.Unturned.Commands.UnturnedCommands/password)
+[registered] /permit (Rocket.Unturned.Commands.UnturnedCommands/permit)
+[registered] /permits (Rocket.Unturned.Commands.UnturnedCommands/permits)
+[registered] /perspective (Rocket.Unturned.Commands.UnturnedCommands/perspective)
+[registered] /players (Rocket.Unturned.Commands.UnturnedCommands/players)
+[registered] /port (Rocket.Unturned.Commands.UnturnedCommands/port)
+[registered] /pve (Rocket.Unturned.Commands.UnturnedCommands/pve)
+[registered] /quest (Rocket.Unturned.Commands.UnturnedCommands/quest)
+[registered] /queue_size (Rocket.Unturned.Commands.UnturnedCommands/queue_size)
+[registered] /reload (Rocket.Unturned.Commands.UnturnedCommands/reload)
+[registered] /reputation (Rocket.Unturned.Commands.UnturnedCommands/reputation)
+[registered] /resetconfig (Rocket.Unturned.Commands.UnturnedCommands/resetconfig)
+[registered] /save (Rocket.Unturned.Commands.UnturnedCommands/save)
+[registered] /say (Rocket.Unturned.Commands.UnturnedCommands/say)
+[registered] /shutdown (Rocket.Unturned.Commands.UnturnedCommands/shutdown)
+[registered] /slay (Rocket.Unturned.Commands.UnturnedCommands/slay)
+[registered] /spy (Rocket.Unturned.Commands.UnturnedCommands/spy)
+[registered] /sync (Rocket.Unturned.Commands.UnturnedCommands/sync)
+[registered] /teleport (Rocket.Unturned.Commands.UnturnedCommands/teleport)
+[registered] /time (Rocket.Unturned.Commands.UnturnedCommands/time)
+[registered] /timeout (Rocket.Unturned.Commands.UnturnedCommands/timeout)
+[registered] /unban (Rocket.Unturned.Commands.UnturnedCommands/unban)
+[registered] /unpermit (Rocket.Unturned.Commands.UnturnedCommands/unpermit)
+[registered] /vehicle (Rocket.Unturned.Commands.UnturnedCommands/vehicle)
+[registered] /votify (Rocket.Unturned.Commands.UnturnedCommands/votify)
+[registered] /weather (Rocket.Unturned.Commands.UnturnedCommands/weather)
+[registered] /welcome (Rocket.Unturned.Commands.UnturnedCommands/welcome)
+[registered] /whitelisted (Rocket.Unturned.Commands.UnturnedCommands/whitelisted)
+[registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+Loading AdvancedSpawnProtection from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\AdvancedSpawnProtection.dll
+Loading FeexExp from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\FeexExp.dll
+Loading FPSCap from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\FPSCap.dll
+Loading JailTimeFree from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\JailTimeFree.dll
+Loading JoinLeaveMessages from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\JoinLeaveMessages.dll
+Loading Kits from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\Kits.dll
+Loading MessageAnnouncer from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\MessageAnnouncer.dll
+Loading RocketMod_TPA from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\RocketMod_TPA.dll
+Loading Uconomy from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\Uconomy.dll
+Loading uFly from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\uFly.dll
+Loading Warps from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\Warps.dll
+Loading ZaupClearInventoryLib from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\ZaupClearInventoryLib.dll
+Loading ZaupFeast from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\ZaupFeast.dll
+Loading ZaupHomeCommand from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\ZaupHomeCommand.dll
+Loading ZaupShop from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\ZaupShop.dll
+Loading ZaupUconomyEssentials from d:\clients\Users\16835\Servers\VServer\Rocket\Plugins\ZaupUconomyEssentials.dll
+
+[loading] AdvancedSpawnProtection
+[registered] /toggleprotection (RocketModSpawnProtection.CommandToggleProtection/toggleprotection)
+[registered] /startprot (RocketModSpawnProtection.SpawnProtection/startprot)
+[registered] /pstart (RocketModSpawnProtection.SpawnProtection/pstart)
+[registered] /stopprot (RocketModSpawnProtection.SpawnProtection/stopprot)
+[registered] /pstop (RocketModSpawnProtection.SpawnProtection/pstop)
+AdvancedSpawnProtection >> SpawnProtection loaded!
+UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: ProtectionComponent
+
+[loading] FeexExp
+[registered] /exp (Freenex.FeexExp.CommandExp/exp)
+FeexExp >> Freenex's FeexExp has been loaded!
+UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: FeexExpPlayerComponent
+
+[loading] FPSCap
+[registered] /tps (FPSCap.CommandTPS/tps)
+[registered] /limittps (FPSCap.CommandLimitTPS/limittps)
+[registered] /ltps (FPSCap.CommandLimitTPS/ltps)
+FPSCap >> 服务器TPS已设置为：60 TPS.
+
+[loading] JailTimeFree
+[registered] /jail (ApokPT.RocketPlugins.JailTimeCommand/jail)
+JokTime: 由ApokPT提供。 由Lossy修正。 并由noammiz007更新.
+UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: JailTimePlayer
+
+[loading] JoinLeaveMessages
+
+[loading] Kits
+[registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+Kits >> Optional dependency Uconomy is not present.
+
+[loading] MessageAnnouncer
+MessageAnnouncer >> Load
+[registered] /rules (fr34kyn01535.MessageAnnouncer.RocketTextCommand/rules)
+
+[loading] RocketMod_TPA
+[registered] /tpa (RocketMod_TPA.CommandTPA/tpa)
+TPA by LeeIzaZombie, Version 1.7.0.2
+...
+Current configuration:
+...
+Cooldown TPA requests: disabled, Seconds: 20
+Delay teleporting: disabled, Seconds: 10
+Cancel teleport if bleeding: disabled
+NinjaTP: disabled, EffectID: 45
+[Delay] Cancel teleport if hurt: disabled
+...
+Checking for problems:
+No errors have been found!
+...
+Always welcome to suggestions! If you find a bug, please report it!
+
+[loading] Uconomy
+[registered] /balance (fr34kyn01535.Uconomy.CommandBalance/balance)
+[registered] /pay (fr34kyn01535.Uconomy.CommandPay/pay)
+Fallback handler could not load library d:/clients/Users/16835/Unturned_Data/Mono/data-0000023848DBE050.dll
+Fallback handler could not load library d:/clients/Users/16835/Unturned_Data/Mono/data-0000023848C90010.dll
+Fallback handler could not load library d:/clients/Users/16835/Unturned_Data/Mono/data-0000023848DD7A70.dll
+Fallback handler could not load library d:/clients/Users/16835/Unturned_Data/Mono/data-0000023848E92C80.dll
+Fallback handler could not load library d:/clients/Users/16835/Unturned_Data/Mono/data-0000023849046AA0.dll
+
+[loading] uFly
+[registered] /ufly (uFly.CommandUFly/ufly)
+
+[loading] Warps
+[registered] /delwarp (Warps.CommandDelWarp/delwarp)
+[registered] /setwarp (Warps.CommandSetWarp/setwarp)
+[registered] /warp (Warps.CommandWarp/warp)
+[registered] /warps (Warps.CommandWarps/warps)
+[registered] /delwarpall (Warps.CommandDelWarpAll/delwarpall)
+UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: WarpsPlayerComponent
+
+[loading] ZaupClearInventoryLib
+[registered] /ci (ZaupClearInventoryLib.CommandCi/ci)
+[registered] /clearinventory (ZaupClearInventoryLib.CommandCi/clearinventory)
+[registered] /cleari (ZaupClearInventoryLib.CommandCi/cleari)
+OnLevelWasLoaded was found on Feast
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 356)
+
+
+[loading] ZaupFeast
+[registered] /runfeast (ZaupFeast.CommandRunFeast/runfeast)
+[registered] /frun (ZaupFeast.CommandRunFeast/frun)
+
+[loading] ZaupHomeCommand
+[registered] /home (ZaupHomeCommand.CommandHome/home)
+UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: HomePlayer
+
+[loading] ZaupShop
+[registered] /buy (ZaupShop.CommandBuy/buy)
+[registered] /cost (ZaupShop.CommandCost/cost)
+[registered] /sell (ZaupShop.CommandSell/sell)
+[registered] /shop (ZaupShop.CommandShop/shop)
+
+[loading] ZaupUconomyEssentials
+Other mapping to: Uconomy_Essentials.CommandApay/apay / ZaupUconomyEssentials.CommandApay/apay
+[registered] /apay (ZaupUconomyEssentials.CommandApay/apay)
+Other mapping to: Uconomy_Essentials.CommandExchange/exchange / ZaupUconomyEssentials.CommandExchange/exchange
+[registered] /exchange (ZaupUconomyEssentials.CommandExchange/exchange)
+UnityEngine.CoreModule >> Adding UnturnedPlayerComponent: PlayerUe
+This server will automatically save every 300 seconds
+Broadcast: 欢迎来到这个服务器
+MessageAnnouncer >> 欢迎来到这个服务器
+Steam servers ready!
+Workshop install folder: d:\clients\Users\16835/Servers/VServer/Workshop/Steam
+0 workshop item(s) requested
+Unloading 2 Unused Serialized files (Serialized files now loaded: 3)
+Recommended to add workshop item 1804433423 to WorkshopDownloadConfig.json and remove it from /Servers/VServer/Workshop/Content
+Recommended to add workshop item 1830152355 to WorkshopDownloadConfig.json and remove it from /Servers/VServer/Workshop/Content
+Recommended to add workshop item 1906910169 to WorkshopDownloadConfig.json and remove it from /Servers/VServer/Workshop/Content
+UnloadTime: 0.213465 ms
+ZaupFeast >> The next feast will be at Yekativurg at 2020/3/27 15:54:42
+Loading level: 8%
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 17266.
+Total: 323.835859 ms (FindLiveObjects: 1.191779 ms CreateObjectMapping: 0.864099 ms MarkObjects: 321.683489 ms  DeleteObjects: 0.095705 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17266.
+Total: 319.110096 ms (FindLiveObjects: 0.938930 ms CreateObjectMapping: 0.723890 ms MarkObjects: 317.369295 ms  DeleteObjects: 0.076800 ms)
+
+Loading level: 16%
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Russia/Objects/359/Nav"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Russia/Objects/359/Nav"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Russia/Objects/626/Nav"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Russia/Objects/623/Nav"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Russia/Objects/624/Nav"
+ 
+(Filename:  Line: 0)
+
+Loading level: 25%
+Loading level: 33%
+Loading level: 41%
+Loading level: 50%
+Loading level: 58%
+Loading level: 66%
+Loading level: 75%
+Loading level: 83%
+Loading level: 91%
+Loading level: 100%
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 200728.
+Total: 373.142276 ms (FindLiveObjects: 14.660538 ms CreateObjectMapping: 4.273233 ms MarkObjects: 349.715505 ms  DeleteObjects: 4.492212 ms)
+
+Failed to generate an item with ID 20169 from type Police_Low [0]
+Failed to generate an item with ID 20181 from type Military_Low [2]
+Broadcast: 将服务器添加收藏，方便下次进入
+MessageAnnouncer >> 将服务器添加收藏，方便下次进入
+Broadcast: 服务器群号：838699506
+MessageAnnouncer >> 服务器群号：838699506
+Broadcast: 若发现使用外挂/卡BUG玩家 请联系群管理员
+MessageAnnouncer >> 若发现使用外挂/卡BUG玩家 请联系群管理员
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 543)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 543)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 543)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 543)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 543)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 543)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 543)
+
+ZaupHomeCommand >> Homeplayer is awake
+Homeplayer is awake.DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 543)
+
+Connecting: PlayerID: 76561198181125833 Name: Ryusa Character: RYUSA
+Broadcast: RYUSA已从China连接.
+Broadcast: 输入/TPA XX 传送 /tpa accept 接受传送
+MessageAnnouncer >> 输入/TPA XX 传送 /tpa accept 接受传送
+[World] RYUSA [Ryusa]: "/give 20240"
+Successfully gave Ryusa 20240 x1!
+[World] RYUSA [Ryusa]: "/tp wp"
+[World] RYUSA [Ryusa]: "/tp waypoint"
+Broadcast: 服务器禁止抄家 发现拆别人家的玩家 永久踢出服务器
+MessageAnnouncer >> 服务器禁止抄家 发现拆别人家的玩家 永久踢出服务器
+[World] RYUSA [Ryusa]: "/tp"
+[World] RYUSA [Ryusa]: "/tp waypoint"
+RYUSA 传送到 Moscow
+[World] RYUSA [Ryusa]: "/tp moscow"
+Broadcast: 欢迎来到这个服务器
+MessageAnnouncer >> 欢迎来到这个服务器
+Broadcast: 将服务器添加收藏，方便下次进入
+MessageAnnouncer >> 将服务器添加收藏，方便下次进入
+[World] RYUSA [Ryusa]: "/give 64704"
+Successfully gave Ryusa 64704 x1!
+[World] RYUSA [Ryusa]: "/give 64705"
+Successfully gave Ryusa 64705 x1!
+Broadcast: 服务器群号：838699506
+MessageAnnouncer >> 服务器群号：838699506
+Player finished session: 76561198181125833
+Broadcast: RYUSA 与服务器断开连接.
+Disconnecting: PlayerID: 76561198181125833 Name: Ryusa Character: RYUSA
+Broadcast: 若发现使用外挂/卡BUG玩家 请联系群管理员
+MessageAnnouncer >> 若发现使用外挂/卡BUG玩家 请联系群管理员
+Saving server
+Broadcast: 输入/TPA XX 传送 /tpa accept 接受传送
+MessageAnnouncer >> 输入/TPA XX 传送 /tpa accept 接受传送
+\src\tier0\threadtools.cpp (3225) : Assertion Failed: Illegal termination of worker thread 'Thread(0x00007FFA59CD7B20/0x000'
+\src\tier0\threadtools.cpp (3225) : Assertion Failed: Illegal termination of worker thread 'Thread(0x00007FFA59CD7B20/0x000'
+Setting breakpad minidump AppID = 304930

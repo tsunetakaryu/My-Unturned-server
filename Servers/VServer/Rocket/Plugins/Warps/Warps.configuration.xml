@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WarpsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UconomyEnable>false</UconomyEnable>
+  <WarpCargeEnable>true</WarpCargeEnable>
+  <WarpCost>100.00</WarpCost>
+  <WarpOtherChargeEnable>false</WarpOtherChargeEnable>
+  <WarpOtherCost>200.00</WarpOtherCost>
+  <SetWarpChargeEnable>false</SetWarpChargeEnable>
+  <SetWarpCost>200.00</SetWarpCost>
+  <DelWarpChargeEnable>false</DelWarpChargeEnable>
+  <DelWarpCost>200.00</DelWarpCost>
+  <EnableWaitGroups>false</EnableWaitGroups>
+  <EnableMovementRestriction>false</EnableMovementRestriction>
+  <WaitGroups>
+    <Group GroupName="default" WaitTime="10" />
+    <Group GroupName="admin" WaitTime="5" />
+    <Group GroupName="all" WaitTime="10" />
+  </WaitGroups>
+  <Warps />
+</WarpsConfig>
