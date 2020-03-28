@@ -3,13 +3,13 @@ bindip 0.0.0.0
 port 51000
 maxplayers 15
 Chatrate 604800
-Mode Easy
+Mode Normal
 Owner 76561198181125833
 password 
 Map Russia
 PVE
 Perspective Both
-Timeout 400
+Timeout 600
 Welcome Level normal, got some mods, have fun. 
 Loadout 255/
 Cycle 1200
