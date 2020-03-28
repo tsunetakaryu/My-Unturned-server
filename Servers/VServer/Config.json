@@ -2,8 +2,8 @@
   "Browser": {
     "Icon": "http://data.kuniu.net/modsup/12553.png",
     "Thumbnail": "",
-    "Desc_Hint": "Super powerful server from www.kuniu.net",
-    "Desc_Full": "Kai Fu Fang Wen www.kuniu.net  QQ:2885408118",
+    "Desc_Hint": "Have fun",
+    "Desc_Full": "Have fun, QQ group channel: 838699506",
     "Desc_Server_List": ""
   },
   "Server": {
@@ -14,7 +14,8 @@
     "Timeout_Game_Seconds": 30.0,
     "Max_Packets_Per_Second": 50.0,
     "Enable_Kick_Input_Spam": false,
-    "Enable_Kick_Input_Timeout": true
+    "Enable_Kick_Input_Timeout": true,
+    "Chat_Always_Use_Rich_Text": false
   },
   "Easy": {
     "Items": {
@@ -213,10 +214,10 @@
   },
   "Normal": {
     "Items": {
-      "Spawn_Chance": 1.0,
+      "Spawn_Chance": 0.9,
       "Despawn_Dropped_Time": 600.0,
       "Despawn_Natural_Time": 900.0,
-      "Respawn_Time": 60.0,
+      "Respawn_Time": 300.0,
       "Quality_Full_Chance": 0.4,
       "Quality_Multiplier": 1.0,
       "Gun_Bullets_Full_Chance": 0.4,
@@ -229,7 +230,7 @@
     },
     "Vehicles": {
       "Has_Battery_Chance": 0.8,
-      "Min_Battery_Charge": 0.3,
+      "Min_Battery_Charge": 0.4,
       "Max_Battery_Charge": 0.75,
       "Has_Tire_Chance": 0.85,
       "Respawn_Time": 600.0,
@@ -253,31 +254,31 @@
       "Flanker_Chance": 0.025,
       "Burner_Chance": 0.025,
       "Acid_Chance": 0.025,
-      "Boss_Electric_Chance": 0.01,
-      "Boss_Wind_Chance": 0.01,
-      "Boss_Fire_Chance": 0.01,
-      "Spirit_Chance": 0.01,
+      "Boss_Electric_Chance": 0.001,
+      "Boss_Wind_Chance": 0.001,
+      "Boss_Fire_Chance": 0.001,
+      "Spirit_Chance": 0.001,
       "Respawn_Day_Time": 360.0,
       "Respawn_Night_Time": 30.0,
       "Respawn_Beacon_Time": 0.0,
       "Damage_Multiplier": 1.0,
       "Armor_Multiplier": 1.0,
-      "Backstab_Multiplier": 3,
+      "Backstab_Multiplier": 1.25,
       "Beacon_Experience_Multiplier": 1.0,
       "Full_Moon_Experience_Multiplier": 2.0,
       "Min_Drops": 1,
       "Max_Drops": 1,
       "Min_Mega_Drops": 5,
-      "Max_Mega_Drops": 8,
+      "Max_Mega_Drops": 5,
       "Min_Boss_Drops": 8,
-      "Max_Boss_Drops": 13,
+      "Max_Boss_Drops": 10,
       "Slow_Movement": false,
       "Can_Stun": true,
       "Only_Critical_Stuns": false,
       "Weapons_Use_Player_Damage": false,
       "Can_Target_Barricades": true,
       "Can_Target_Structures": false,
-      "Can_Target_Vehicles": true,
+      "Can_Target_Vehicles": false,
       "Beacon_Max_Rewards": 0,
       "Beacon_Max_Participants": 0,
       "Beacon_Rewards_Multiplier": 1.0
