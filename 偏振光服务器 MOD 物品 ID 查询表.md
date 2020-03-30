@@ -368,6 +368,26 @@ JOHN WICK´s guns series
 
 
 
+模组名：**Flare Gun**
+
+工坊：https://steamcommunity.com/sharedfiles/filedetails/?id=757307211
+
+> -Ammo-
+>
+> - Flare Shell ID: 7649 (Craftable from 2 scrap metal)
+>
+> -Guns-
+>
+> - Blue Flare Gun ID: 7650
+> - Green Flare Gun ID: 7651
+> - Orange Flare Gun ID: 7652
+> - Purple Flare Gun ID: 7653
+> - Red Flare Gun ID: 7654
+> - Yellow Flare Gun ID: 7655
+> - Rainbow Flare Gun ID: 7656
+
+
+
 ## 近战武器
 
 模组名：**Genestic12's Misc Items**
@@ -464,63 +484,67 @@ JOHN WICK´s guns series
 
 > **Beggar Top**
 >
-> Beggar Top 29580
+> - Beggar Top 29580
 >
-> Beggar Bottom 29581
+> - Beggar Bottom 29581
 >
-> Beggar Mask 29582
+> - Beggar Mask 29582
 >
-> Beggar Sign 29583
+> - Beggar Sign 29583
 >
-> Beggar Hood 29584
+> - Beggar Hood 29584
+>
 >
 > **Psycho Raider**
 >
-> Psycho Raider Top 29576
+> - Psycho Raider Top 29576
 >
-> Psycho Raider Bottom 29577
+> - Psycho Raider Bottom 29577
 >
-> Psycho Raider Vest 29578
+> - Psycho Raider Vest 29578
 >
-> Psycho Raider Mask 29579
+> - Psycho Raider Mask 29579
 >
-> Scavenger
 >
-> Scavenger Top 29595
+> **Scavenger**
 >
-> Scavenger Bottom 29596
+> - Scavenger Top 29595
 >
-> Scavenger Binoculars 29597
+> - Scavenger Bottom 29596
 >
-> Scavenger Hood 29598
+> - Scavenger Binoculars 29597
 >
-> Scavenger Pack 29599
+> - Scavenger Hood 29598
 >
-> Scavenger Mask(vanilla gasmask) 1270
+> - Scavenger Pack 29599
+>
+> - Scavenger Mask(vanilla gasmask) 1270
+>
 >
 > **Slugger**
 >
-> Slugger Top 29590
+> - Slugger Top 29590
 >
-> Slugger Bottom 29591
+> - Slugger Bottom 29591
 >
-> Slugger Vest 29592
+> - Slugger Vest 29592
 >
-> Slugger Pack 29593
+> - Slugger Pack 29593
 >
-> Slugger Mask 29594
+> - Slugger Mask 29594
+>
 >
 > **Survivalist**
 >
-> Survivalist Top 29585
+> - Survivalist Top 29585
 >
-> Survivalist Bottom 29586
+> - Survivalist Bottom 29586
 >
-> Survivalist Hat 29587
+> - Survivalist Hat 29587
 >
-> Survivalist Pack 29588
+> - Survivalist Pack 29588
 >
-> Survivalist Vest 29589
+> - Survivalist Vest 29589
 
 
 
