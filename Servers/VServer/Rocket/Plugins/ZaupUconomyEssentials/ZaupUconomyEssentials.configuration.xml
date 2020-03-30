@@ -2,14 +2,14 @@
 <UconomyEConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <PayTime>true</PayTime>
   <PayGroups>
-    <Group DisplayName="admin" Salary="100" />
-    <Group DisplayName="moderator" Salary="200" />
-    <Group DisplayName="vip1" Salary="10" />
+    <Group DisplayName="admin" Salary="50" />
+    <Group DisplayName="moderator" Salary="50" />
+    <Group DisplayName="vip1" Salary="15" />
     <Group DisplayName="vip2" Salary="20" />
     <Group DisplayName="vip3" Salary="30" />
     <Group DisplayName="vip4" Salary="40" />
-    <Group DisplayName="default" Salary="2" />
-    <Group DisplayName="caifu" Salary="30" />
+    <Group DisplayName="default" Salary="10" />
+    <Group DisplayName="caifu" Salary="20" />
   </PayGroups>
   <PayTimeSeconds>60</PayTimeSeconds>
   <PayHit>true</PayHit>

@@ -2,78 +2,67 @@
 <KitsConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Kits>
     <Kit>
-      <Name>xinshou</Name>
+      <Name>starter</Name>
       <XP>0</XP>
       <Money xsi:nil="true" />
       <Vehicle xsi:nil="true" />
       <Items>
-        <Item id="4" amount="1" />
-        <Item id="81" amount="1" />
+        <Item id="245" amount="1" />
+        <Item id="81" amount="2" />
+        <Item id="7656" amount="1" />
+        <Item id="7649" amount="4" />
       </Items>
-      <Cooldown>1800</Cooldown>
+      <Cooldown>3600</Cooldown>
     </Kit>
     <Kit>
-      <Name>VIP</Name>
-      <XP>10</XP>
-      <Money>1</Money>
+      <Name>ammo1</Name>
+      <XP>0</XP>
+      <Money>200</Money>
       <Vehicle xsi:nil="true" />
       <Items>
-        <Item id="121" amount="1" />
-        <Item id="253" amount="1" />
-        <Item id="132" amount="1" />
-        <Item id="133" amount="1" />
+        <Item id="44" amount="1" />
       </Items>
-      <Cooldown>1800</Cooldown>
+      <Cooldown>300</Cooldown>
     </Kit>
     <Kit>
-      <Name>SVIP</Name>
-      <XP>10</XP>
-      <Money>1</Money>
+      <Name>ammo2</Name>
+      <XP>0</XP>
+      <Money>400</Money>
       <Vehicle xsi:nil="true" />
       <Items>
-        <Item id="122" amount="1" />
-        <Item id="125" amount="1" />
-        <Item id="253" amount="1" />
-        <Item id="254" amount="2" />
-        <Item id="81" amount="3" />
+        <Item id="43" amount="1" />
       </Items>
-      <Cooldown>1800</Cooldown>
+      <Cooldown>300</Cooldown>
     </Kit>
     <Kit>
-      <Name>SSVIP</Name>
-      <XP>10</XP>
-      <Money>1</Money>
+      <Name>ammo3</Name>
+      <XP>0</XP>
+      <Money>800</Money>
       <Vehicle xsi:nil="true" />
       <Items>
-        <Item id="99" amount="1" />
-        <Item id="100" amount="5" />
-        <Item id="151" amount="1" />
-        <Item id="363" amount="1" />
-        <Item id="17" amount="2" />
-        <Item id="81" amount="5" />
+        <Item id="1192" amount="1" />
       </Items>
-      <Cooldown>1800</Cooldown>
+      <Cooldown>300</Cooldown>
     </Kit>
     <Kit>
-      <Name>SSSVIP</Name>
-      <XP>10</XP>
-      <Money>1</Money>
+      <Name>ammo4</Name>
+      <XP>0</XP>
+      <Money>400</Money>
       <Vehicle xsi:nil="true" />
       <Items>
-        <Item id="235" amount="1" />
-        <Item id="236" amount="1" />
-        <Item id="237" amount="1" />
-        <Item id="238" amount="1" />
-        <Item id="253" amount="1" />
-        <Item id="81" amount="5" />
-        <Item id="129" amount="1" />
-        <Item id="130" amount="5" />
-        <Item id="143" amount="1" />
-        <Item id="140" amount="1" />
-        <Item id="1008" amount="1" />
-        <Item id="296" amount="1" />
+        <Item id="119" amount="1" />
       </Items>
-      <Cooldown>1800</Cooldown>
+      <Cooldown>300</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>ammo5</Name>
+      <XP>0</XP>
+      <Money>800</Money>
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="1193" amount="1" />
+      </Items>
+      <Cooldown>300</Cooldown>
     </Kit>
   </Kits>
   <GlobalCooldown>10</GlobalCooldown>
