@@ -9,6 +9,8 @@
     <Message Text="公告：禁止破坏其他玩家的所有物（建筑，车辆，箱子等）" Color="#00FFFF" />
     <Message Text="公告：玩家建筑最大尺寸 3*3*3，禁止建造浮空建筑" Color="#00FFFF" />
     <Message Text="公告：玩家的建筑与房屋建议用金属牌标记拥有者" Color="#00FFFF" />
+    <Message Text="公告：输入 /kit starter 可以领取新手礼包" Color="#FF0000" />
+    <Message Text="公告：可以通过 /kits 指令查看能购买的物品（使用 RMB）" Color="#FF0000" />
   </Messages>
   <TextCommands>
     <TextCommand>
