@@ -3,11 +3,11 @@
   <GiveVanishWhileProtected>true</GiveVanishWhileProtected>
   <CancelProtectionOnEquip>true</CancelProtectionOnEquip>
   <CancelProtectionIfInVehicleWithOthers>true</CancelProtectionIfInVehicleWithOthers>
-  <CancelOnBedRespawn>false</CancelOnBedRespawn>
+  <CancelOnBedRespawn>true</CancelOnBedRespawn>
   <GiveProtectionOnJoin>false</GiveProtectionOnJoin>
   <GiveProtectionOnRespawn>true</GiveProtectionOnRespawn>
   <AutoRepairProtectedPlayersVehicles>true</AutoRepairProtectedPlayersVehicles>
-  <SendProtectionMessages>false</SendProtectionMessages>
+  <SendProtectionMessages>true</SendProtectionMessages>
   <ForceDequipWhileProtected>false</ForceDequipWhileProtected>
   <EnableProtectionBasedOnDist>false</EnableProtectionBasedOnDist>
   <DisableProtectionBasedOnDist>false</DisableProtectionBasedOnDist>
