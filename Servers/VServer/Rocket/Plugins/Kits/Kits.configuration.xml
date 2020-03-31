@@ -17,7 +17,7 @@
     <Kit>
       <Name>ammo1</Name>
       <XP>0</XP>
-      <Money>200</Money>
+      <Money>0</Money>
       <Vehicle xsi:nil="true" />
       <Items>
         <Item id="44" amount="1" />
@@ -27,7 +27,7 @@
     <Kit>
       <Name>ammo2</Name>
       <XP>0</XP>
-      <Money>400</Money>
+      <Money>0</Money>
       <Vehicle xsi:nil="true" />
       <Items>
         <Item id="43" amount="1" />
@@ -37,7 +37,7 @@
     <Kit>
       <Name>ammo3</Name>
       <XP>0</XP>
-      <Money>800</Money>
+      <Money>0</Money>
       <Vehicle xsi:nil="true" />
       <Items>
         <Item id="1192" amount="1" />
@@ -47,7 +47,7 @@
     <Kit>
       <Name>ammo4</Name>
       <XP>0</XP>
-      <Money>400</Money>
+      <Money>0</Money>
       <Vehicle xsi:nil="true" />
       <Items>
         <Item id="119" amount="1" />
@@ -57,7 +57,7 @@
     <Kit>
       <Name>ammo5</Name>
       <XP>0</XP>
-      <Money>800</Money>
+      <Money>0</Money>
       <Vehicle xsi:nil="true" />
       <Items>
         <Item id="1193" amount="1" />
