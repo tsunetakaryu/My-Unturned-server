@@ -38,6 +38,7 @@
         <Permission Cooldown="0">kit.ammo3</Permission>
         <Permission Cooldown="0">kit.ammo4</Permission>
         <Permission Cooldown="0">kit.ammo5</Permission>
+        <Permission Cooldown="0">spawnprotection</Permission>
         <Permission Cooldown="0">hitman.receive.</Permission>
         <Permission Cooldown="0">hitman.add</Permission>
         <Permission Cooldown="0">hitman.payout</Permission>
