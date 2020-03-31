@@ -32,6 +32,18 @@
 
 
 
+模组名：**Zoli's RAH-66 Comanche**
+
+工坊：https://steamcommunity.com/workshop/filedetails/?id=2038994972
+
+> RAH-66 Comanche - 27509
+>
+> Missiles - 27514
+>
+> Minigun Box - 27513
+
+
+
 ## 武器、配件
 
 模组名：**Vittore´s Modern Warfare Collection**
