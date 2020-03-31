@@ -1,10 +1,10 @@
 {
   "Browser": {
-    "Icon": "http://data.kuniu.net/modsup/12553.png",
-    "Thumbnail": "",
-    "Desc_Hint": "Have fun",
-    "Desc_Full": "Have fun, QQ group channel: 838699506",
-    "Desc_Server_List": ""
+    "Icon": "https://ftp.bmp.ovh/imgs/2020/03/273258690c523aab.png",
+    "Thumbnail": "https://ftp.bmp.ovh/imgs/2020/03/273258690c523aab.png",
+    "Desc_Hint": "趣味模组｜死亡不掉｜和平生存｜基建狂魔",
+    "Desc_Full": "QQ 群：838699506",
+    "Desc_Server_List": "<color=#F0FFFF>趣味模组｜死亡不掉｜和平生存｜基建狂魔</color>"
   },
   "Server": {
     "VAC_Secure": true,
