@@ -32,8 +32,12 @@
         <Permission Cooldown="0">tpa.deny</Permission>
         <Permission Cooldown="0">kits</Permission>
         <Permission Cooldown="0">kit</Permission>
-        <Permission Cooldown="0">kit.xinshou</Permission>
-        <Permission Cooldown="0">libao</Permission>
+        <Permission Cooldown="0">kit.starter</Permission>
+        <Permission Cooldown="0">kit.ammo1</Permission>
+        <Permission Cooldown="0">kit.ammo2</Permission>
+        <Permission Cooldown="0">kit.ammo3</Permission>
+        <Permission Cooldown="0">kit.ammo4</Permission>
+        <Permission Cooldown="0">kit.ammo5</Permission>
         <Permission Cooldown="0">hitman.receive.</Permission>
         <Permission Cooldown="0">hitman.add</Permission>
         <Permission Cooldown="0">hitman.payout</Permission>
