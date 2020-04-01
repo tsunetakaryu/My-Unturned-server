@@ -1,0 +1,27 @@
+GUID d234737489be49de91a20a974de9ce5b
+Type Spawn
+ID 33004
+
+Roots 4
+Root_0_Spawn_ID 332
+Root_0_Weight 9
+Root_0_Spawn_ID 369
+Root_0_Weight 9
+Root_0_Spawn_ID 840
+Root_0_Weight 9
+Root_0_Spawn_ID 845
+Root_0_Weight 9
+
+Tables 6
+Table_0_Asset_ID 20091
+Table_0_Weight 9
+Table_0_Asset_ID 20092
+Table_0_Weight 9
+Table_0_Asset_ID 20093
+Table_0_Weight 9
+Table_0_Asset_ID 20094
+Table_0_Weight 9
+Table_0_Asset_ID 20095
+Table_0_Weight 9
+Table_0_Asset_ID 20096
+Table_0_Weight 9
