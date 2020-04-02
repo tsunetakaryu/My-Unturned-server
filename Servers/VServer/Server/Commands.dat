@@ -1,16 +1,16 @@
-name 偏振光-俄罗斯
+name 偏振光-太平洋
 bindip 0.0.0.0
 port 51000
 maxplayers 15
 Chatrate 604800
 Mode Normal
 Owner 76561198181125833
-password 
-Map Russia
+password
+Map Pacific
 PVE
 Perspective Both
 Timeout 600
-Welcome Level normal, got some mods, have fun. 
+Welcome Level normal, got some mods, have fun.
 Loadout 255/
 Cycle 1200
 nosync
