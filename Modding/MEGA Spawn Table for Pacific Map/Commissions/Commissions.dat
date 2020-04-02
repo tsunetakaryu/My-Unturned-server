@@ -2,19 +2,17 @@ GUID 303521dbe6734bce81a83db5e0140f13
 Type Spawn
 ID 33001
 
-Roots 6
-Root_0_Spawn_ID 331
+Roots 5
+Root_0_Spawn_ID 681
 Root_0_Weight 9
-Root_1_Spawn_ID 333
+Root_1_Spawn_ID 682
 Root_1_Weight 9
-Root_1_Spawn_ID 338
-Root_1_Weight 9
-Root_1_Spawn_ID 381
-Root_1_Weight 9
-Root_1_Spawn_ID 394
-Root_1_Weight 9
-Root_1_Spawn_ID 845
-Root_1_Weight 9
+Root_2_Spawn_ID 786
+Root_2_Weight 9
+Root_3_Spawn_ID 788
+Root_3_Weight 9
+Root_4_Spawn_ID 791
+Root_4_Weight 9
 
 Tables 19
 Table_0_Asset_ID 20282
