@@ -2,9 +2,9 @@
   "Browser": {
     "Icon": "https://ftp.bmp.ovh/imgs/2020/03/273258690c523aab.png",
     "Thumbnail": "https://ftp.bmp.ovh/imgs/2020/03/273258690c523aab.png",
-    "Desc_Hint": "趣味模组｜死亡不掉｜和平生存｜基建狂魔",
+    "Desc_Hint": "太平洋岛图｜死亡不掉｜和平生存｜基建狂魔",
     "Desc_Full": "QQ 群：838699506",
-    "Desc_Server_List": "<color=#F0FFFF>趣味模组｜死亡不掉｜和平生存｜基建狂魔</color>"
+    "Desc_Server_List": "太平洋岛图｜死亡不掉｜和平生存｜基建狂魔"
   },
   "Server": {
     "VAC_Secure": true,
@@ -214,17 +214,17 @@
   },
   "Normal": {
     "Items": {
-      "Spawn_Chance": 0.9,
+      "Spawn_Chance": 1.0,
       "Despawn_Dropped_Time": 600.0,
       "Despawn_Natural_Time": 900.0,
-      "Respawn_Time": 600.0,
-      "Quality_Full_Chance": 0.4,
+      "Respawn_Time": 30.0,
+      "Quality_Full_Chance": 0.1,
       "Quality_Multiplier": 1.0,
-      "Gun_Bullets_Full_Chance": 0.4,
+      "Gun_Bullets_Full_Chance": 0.1,
       "Gun_Bullets_Multiplier": 1.0,
-      "Magazine_Bullets_Full_Chance": 0.4,
-      "Magazine_Bullets_Multiplier": 0.5,
-      "Crate_Bullets_Full_Chance": 0.4,
+      "Magazine_Bullets_Full_Chance": 0.1,
+      "Magazine_Bullets_Multiplier": 1.0,
+      "Crate_Bullets_Full_Chance": 0.1,
       "Crate_Bullets_Multiplier": 1.0,
       "Has_Durability": true
     },
@@ -328,10 +328,10 @@
       "Experience_Multiplier": 1.0,
       "Detect_Radius_Multiplier": 1.0,
       "Ray_Aggressor_Distance": 8.0,
-      "Lose_Skills_PvP": 0.1,
-      "Lose_Skills_PvE": 0.1,
-      "Lose_Items_PvP": 0.0,
-      "Lose_Items_PvE": 0.0,
+      "Lose_Skills_PvP": 0.9,
+      "Lose_Skills_PvE": 0.9,
+      "Lose_Items_PvP": 0.9,
+      "Lose_Items_PvE": 0.9,
       "Lose_Clothes_PvP": false,
       "Lose_Clothes_PvE": false,
       "Lose_Weapons_PvP": false,
