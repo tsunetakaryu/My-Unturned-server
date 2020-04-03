@@ -1,4 +1,4 @@
-name 偏振光-太平洋
+name 偏振光-俄罗斯
 bindip 0.0.0.0
 port 51000
 maxplayers 15
@@ -6,7 +6,7 @@ Chatrate 604800
 Mode Normal
 Owner 76561198181125833
 password
-Map Pacific
+Map Russia
 PVE
 Perspective Both
 Timeout 600
