@@ -1,0 +1,16 @@
+<AntiLockConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<defaultLocks>0</defaultLocks>
+<ignoreAdmins>true</ignoreAdmins>
+<displayMaxlocksNotice>true</displayMaxlocksNotice>
+<displayLockNotice>true</displayLockNotice>
+<lockGroups>
+<LockGroup>
+<Permission>antilock.lock</Permission>
+<MaxLocks>3</MaxLocks>
+</LockGroup>
+<LockGroup>
+<Permission>antilock.biglock</Permission>
+<MaxLocks>6</MaxLocks>
+</LockGroup>
+</lockGroups>
+</AntiLockConfiguration>
