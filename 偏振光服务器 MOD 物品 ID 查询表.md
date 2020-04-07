@@ -430,9 +430,9 @@ JOHN WICK´s guns series
 
 ## 衣物、背包等
 
-模组名：**Girls'Frontline 5.0**
+模组名：**Girls'Frontline**
 
-工坊：https://steamcommunity.com/sharedfiles/filedetails/?id=1830152355
+工坊：1830152355，1778401756，1752361661
 
 不会在地图中刷出，必须以指令获得
 
@@ -452,7 +452,55 @@ JOHN WICK´s guns series
 >
 > M16A1 Head 64707
 
+> UMP45MOD's Arm 64199
+>
+> UMP45MOD's Shirt 64200
+>
+> UMP45MOD's Pants 64201
+>
+> UMP45MOD's Hair 64202
+>
+> UMP45MOD's Chest 64203
+>
+> QBZ-95's Shirt 64204
+>
+> QBZ-95's Pants 64205
+>
+> QBZ-95's Hair 64206
+>
+> QBZ-95's Chest 64207
 
+> UMP45's Hair 42100
+>
+> UMP45's Shirt 42101
+>
+> UMP45's Pant 42102
+>
+> UMP45's chest 42103
+>
+> HK416's Hair 42104
+>
+> HK416's Shirt 42105
+>
+> HK416's Pant 42106
+>
+> HK416's Skirt 42107
+>
+> G11's Hair 42108
+>
+> G11's Shirt 42109
+>
+> G11's Pant 42110
+>
+> G11's Jacket 42111
+>
+> UMP9's Hair 42112
+>
+> UMP9's Shirt 42113
+>
+> UMP9's Pant 42114
+>
+> UMP9's Vest 42115
 
 模组名：**BackPacks Animals | Рюкзаки Животных [UPDATED+FIXED]**
 
